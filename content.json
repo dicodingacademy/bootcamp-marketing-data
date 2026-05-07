@@ -1,0 +1,102 @@
+{
+  "5": {
+    "packageId": "5",
+    "hero": {
+      "batchLabel": "Batch 14 • Kelas dimulai 2 Juni 2026",
+      "title": "Bangun Aplikasi Web Lengkap dengan React + Django",
+      "description": "Kuasai front-end dan back-end dalam satu program intensif. Dalam 20 minggu, kamu akan membangun portofolio nyata bersama tim agar siap untuk berkarier sebagai Full-Stack Developer.",
+      "details": [
+        { "label": "Pelaksanaan", "value": "Juni - Oktober 2026 • Online", "iconKey": "calendar" },
+        { "label": "Siswa akan memperoleh", "value": "Sertifikat Kelulusan", "iconKey": "certificate" }
+      ],
+      "registrationDeadlineNote": "Pendaftaran dibuka hingga 31 Mei 2026",
+      "originalPrice": "Rp14.000.000",
+      "discountLabel": "Disc 57%",
+      "finalPrice": "Rp6.000.000",
+      "registerHref": "/anonymous-registration/1",
+      "consultationHref": "https://wa.me/6281234567890"
+    },
+    "suitableFor": {
+      "pillLabel": null,
+      "description": "Program ini dirancang untuk Anda yang ingin jadi web developer. Tidak perlu latar belakang IT, yang kamu butuhkan adalah komitmen dan kemauan belajar.",
+      "prerequisite": {
+        "title": "Catatan prasyarat:",
+        "body": "Siap berkomitmen 5–6 jam/hari selama program."
+      },
+      "personas": [
+        { "id": "fresh-grad", "iconKey": "graduation-cap", "title": "Mahasiswa & Fresh Graduate", "description": "Ingin masuk industri tech dengan portofolio yang membuktikan kemampuan, bukan sekadar ijazah." },
+        { "id": "switcher", "iconKey": "briefcase", "title": "Career Switcher", "description": "Pekerja non-IT yang ingin transisi ke dunia web development dengan jalur pembelajaran yang terstruktur." },
+        { "id": "self-taught", "iconKey": "code", "title": "Self-taught Programmer", "description": "Sudah belajar sendiri tapi butuh struktur, mentor, dan proyek nyata untuk memvalidasi skill." },
+        { "id": "level-up", "iconKey": "rocket", "title": "Developer yang Ingin Naik Level", "description": "Menguasai satu sisi (front-end/back-end) dan ingin menjadi full-stack developer." }
+      ]
+    },
+    "outcome": {
+      "techStack": ["React", "Python", "Django", "JavaScript", "HTML/CSS", "Git", "Google Cloud", "Postman"],
+      "outcomes": [
+        { "id": "frontend", "title": "Front-end interaktif dengan React", "description": "Component-based UI, state management, routing, dan hooks." },
+        { "id": "backend", "title": "Back-end & API dengan Django + Python", "description": "RESTful API, database management, dan server-side logic." },
+        { "id": "deploy", "title": "Deployment ke Google Cloud", "description": "Deploy dan kelola aplikasi di lingkungan produksi." },
+        { "id": "git", "title": "Kolaborasi tim dengan Git & GitHub", "description": "Version control dan workflow kolaborasi standar industri." },
+        { "id": "thinking", "title": "Problem solving & critical thinking", "description": "Memecahkan masalah nyata, bukan sekadar mengikuti tutorial." },
+        { "id": "career", "title": "Kesiapan karir & personal branding", "description": "Interview prep, CV building, dan strategi pencarian kerja." }
+      ]
+    },
+    "timeline": {
+      "title": "20 Minggu Pembelajaran Intensif dari Fondasi hingga Bangun Portofolio",
+      "items": [
+        { "id": "w1-4", "range": "Minggu 1–4", "title": "Fondasi Web & JavaScript", "description": "Pelajari dasar HTML, CSS, dan JavaScript. Mulai membangun halaman web pertama dan pahami cara browser bekerja." },
+        { "id": "w5-10", "range": "Minggu 5–10", "title": "React & Front-End Modern", "description": "Bangun UI interaktif dengan React. Dari component sederhana hingga aplikasi dengan routing, state, dan integrasi API." },
+        { "id": "w11-14", "range": "Minggu 11–14", "title": "Python & Django Back-End", "description": "Pelajari Python dan bangun RESTful API dengan Django. Database management, autentikasi, dan server-side logic." },
+        { "id": "w15-20", "range": "Minggu 15–20", "title": "Capstone Project & Persiapan Karir", "description": "Kerjakan proyek tim berbasis masalah nyata selama 90 jam. Didampingi advisor, dipresentasikan ke hiring partners." }
+      ]
+    },
+    "curriculum": {
+      "panels": [
+        {
+          "id": "teknis",
+          "headerLabel": "Materi Teknis",
+          "groups": [
+            { "id": "wajib", "courseIds": [123, 256, 315, 403, 413, 86, 743] },
+            { "id": "bonus", "subHeader": "Kelas Bonus", "courseIds": [788, 418] }
+          ]
+        },
+        {
+          "id": "non-teknis",
+          "headerLabel": "Materi Non-Teknis & Soft Skill",
+          "groups": [
+            { "id": "soft", "courseIds": [9100, 9101, 9102, 9103, 9104] }
+          ]
+        }
+      ]
+    },
+    "pricingPlans": {
+      "options": [
+        {
+          "id": "sekali",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 57%",
+          "finalPrice": "Rp6.000.000",
+          "schedule": [
+            { "label": "Pendaftaran", "value": "18 Februari–31 Mei 2026", "iconKey": "calendar" },
+            { "label": "Pelaksanaan", "value": "Juni–Oktober 2026", "iconKey": "clock" }
+          ],
+          "registerHref": "/anonymous-registration/1"
+        }
+      ],
+      "benefits": [
+        "326 jam materi teknis terstruktur",
+        "10+ sesi live expert",
+        "Mentoring 1-on-1",
+        "Capstone 90 jam",
+        "4 modul soft skill",
+        "Review kode oleh expert + AI",
+        "Sertifikat kelulusan",
+        "Akses ke hiring partners untuk memperoleh pekerjaan"
+      ]
+    },
+    "faqItems": [
+      { "id": "background", "question": "Apakah saya harus punya background IT?", "answer": "Tidak. Program ini dirancang untuk pemula tanpa pengalaman IT. Yang dibutuhkan adalah komitmen, kemauan belajar, dan waktu 5–6 jam per hari." },
+      { "id": "komitmen", "question": "Berapa komitmen waktu per hari?", "answer": "Sekitar 5–6 jam per hari selama 20 minggu, mencakup belajar mandiri, sesi live expert, mentoring, dan pengerjaan proyek." }
+    ]
+  }
+}

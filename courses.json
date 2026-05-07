@@ -1,0 +1,550 @@
+{
+  "14": {
+    "id": 14,
+    "title": "Belajar Fundamental Aplikasi Android",
+    "hours": "171 jam",
+    "summary": "Pelajari skill Android dengan kurikulum terlengkap yang dibutuhkan perusahaan. Mulai dari UI/UX, background process, API sampai database."
+  },
+  "51": {
+    "id": 51,
+    "title": "Belajar Membuat Aplikasi Android untuk Pemula",
+    "hours": "63 jam",
+    "summary": "Buat aplikasi pertamamu pada Android Studio dengan mempelajari dasar Activity, Intent, View & ViewGroup, Style & Theme sampai RecyclerView."
+  },
+  "60": {
+    "id": 60,
+    "title": "Memulai Pemrograman Dengan Java",
+    "hours": "15 jam",
+    "summary": "Belajar bahasa Java buat kamu yang ingin mempelajari konsep Pemrograman Berorientasi Objek (PBO) terpopuler untuk mengembangkan aplikasi."
+  },
+  "80": {
+    "id": 80,
+    "title": "Memulai Pemrograman dengan Kotlin",
+    "hours": "54 jam",
+    "summary": "Pelajari dasar bahasa pemrograman, functional programming, object-oriented programming (OOP), serta concurrency dengan menggunakan Kotlin."
+  },
+  "86": {
+    "id": 86,
+    "title": "Memulai Pemrograman dengan Python",
+    "hours": "61 jam",
+    "summary": "Pelajari dasar Python hingga library populer yang menjadi landasan tren industri data science, machine learning, dan back-end development."
+  },
+  "120": {
+    "id": 120,
+    "title": "Memulai Pemrograman Dengan C",
+    "hours": "15 jam",
+    "summary": "Belajar programming menggunakan bahasa C yang menjadi populer dikarenakan cepat dan mudah untuk dipelajari bagi para pemula."
+  },
+  "123": {
+    "id": 123,
+    "title": "Belajar Dasar Pemrograman Web",
+    "hours": "60 jam",
+    "summary": "Pelajari komponen-komponen dasar HTML dan CSS yang merupakan fondasi utama untuk menjadi front-end web developer."
+  },
+  "133": {
+    "id": 133,
+    "title": "Menjadi Google Cloud Engineer",
+    "hours": "45 jam",
+    "summary": "Pelajari konsep dan terminologi cloud computing beserta penjelasan berbagai layanan yang tersedia di Google Cloud."
+  },
+  "145": {
+    "id": 145,
+    "title": "Memulai Pemrograman Dengan Swift",
+    "hours": "40 jam",
+    "summary": "Belajar bahasa Swift buat kamu yang ingin mempelajari konsep dasar pemrograman dalam mengembangkan aplikasi iOS, iPadOS, dan macOS."
+  },
+  "159": {
+    "id": 159,
+    "title": "Belajar Membuat Aplikasi Flutter untuk Pemula",
+    "hours": "55 jam",
+    "summary": "Buat aplikasi pertamamu dengan Flutter. Pelajari konsep dasar layouting dengan widget dan menjalankan aplikasi di platform mobile & web."
+  },
+  "163": {
+    "id": 163,
+    "title": "Belajar Fundamental Front-End Web Development",
+    "hours": "117 jam",
+    "summary": "Pelajari sintaks ES6, Web Component, dan Build Tools dalam membangun website dengan teknik yang simple, reusable, dan optimized."
+  },
+  "165": {
+    "id": 165,
+    "title": "Menjadi Android Developer Expert",
+    "hours": "90 jam",
+    "summary": "Saatnya menjadi Android Expert dengan belajar Clean Architecture, Reactive, Dependency Injection, Modularization, Performance, dan Security."
+  },
+  "169": {
+    "id": 169,
+    "title": "Belajar Prinsip Pemrograman SOLID",
+    "hours": "15 jam",
+    "summary": "Pelajari kelima prinsip desain yang merupakan pedoman untuk rancangan kode yang baik pada pemrograman berorientasi objek (OOP)."
+  },
+  "171": {
+    "id": 171,
+    "title": "Belajar Membuat Aplikasi iOS untuk Pemula",
+    "hours": "40 jam",
+    "summary": "Pelajari cara membuat aplikasi pertamamu dengan Xcode. Kelas ini mengajarkan dasar yang dibutuhkan mulai dari Controller sampai TableViews."
+  },
+  "177": {
+    "id": 177,
+    "title": "Belajar Dasar Visualisasi Data",
+    "hours": "16 jam",
+    "summary": "Pelajari teknik dasar untuk representasi hasil secara visual sehingga dapat menceritakan dan mempresentasikan data secara efektif."
+  },
+  "184": {
+    "id": 184,
+    "title": "Belajar Machine Learning untuk Pemula",
+    "hours": "106 jam",
+    "summary": "Pelajari dasar machine learning dengan fokus materi supervised learning, unsupervised learning, hingga teknik meningkatkan performa model."
+  },
+  "185": {
+    "id": 185,
+    "title": "Belajar Fundamental Deep Learning",
+    "hours": "128 jam",
+    "summary": "Pelajari berbagai penerapan deep learning mulai dari klasifikasi gambar dan teks, time series, sistem rekomendasi, hingga Generative AI."
+  },
+  "191": {
+    "id": 191,
+    "title": "Memulai Pemrograman dengan Dart",
+    "hours": "30 jam",
+    "summary": "Belajar bahasa Dart sebagai fondasi dasar untuk mengembangkan aplikasi di berbagai platform menggunakan Flutter."
+  },
+  "195": {
+    "id": 195,
+    "title": "Belajar Fundamental Aplikasi Flutter",
+    "hours": "135 jam",
+    "summary": "Pelajari komponen fundamental Flutter berdasarkan teknik yang digunakan industri mulai dari state management, API, database, sampai testing."
+  },
+  "199": {
+    "id": 199,
+    "title": "Menjadi Flutter Developer Expert",
+    "hours": "84 jam",
+    "summary": "Pelajari bagaimana membuat aplikasi yang scalable dengan Clean Architecture, TDD, CI, Modularization, dan Reactive Programming."
+  },
+  "202": {
+    "id": 202,
+    "title": "Belajar Fundamental Aplikasi iOS",
+    "hours": "70 jam",
+    "summary": "Pelajari komponen fundamental iOS berdasarkan teknik yang digunakan industri mulai dari App Design, SwiftUI, Networking, sampai Database."
+  },
+  "209": {
+    "id": 209,
+    "title": "Menjadi iOS Developer Expert",
+    "hours": "78 jam",
+    "summary": "Saatnya jadi iOS Expert dengan belajar Clean Code, Design Pattern, Clean Architecture, Reactive Programming, DI, Modularization, dan TDD."
+  },
+  "219": {
+    "id": 219,
+    "title": "Belajar Pengembangan Web Intermediate",
+    "hours": "174 jam",
+    "summary": "Pelajari pengembangan web untuk pengalaman web optimal di mobile, dari aksesibilitas, animasi, media, peta, service worker, hingga PWA."
+  },
+  "237": {
+    "id": 237,
+    "title": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
+    "hours": "26 jam",
+    "summary": "Pelajari langkah menjadi pengembang software dari tahapan analisis dan perencanaan sampai modifikasi perangkat lunak beserta dokumentasi."
+  },
+  "251": {
+    "id": 251,
+    "title": "Belajar Dasar Cloud dan Gen AI di AWS",
+    "hours": "18 jam",
+    "summary": "Pelajari materi dasar Cloud dengan menggunakan AWS, dari konsep cloud computing, hingga penerapan generative AI dengan AWS."
+  },
+  "256": {
+    "id": 256,
+    "title": "Belajar Dasar Pemrograman JavaScript",
+    "hours": "62 jam",
+    "summary": "Pelajari dasar JavaScript, dari fundamental, sintaks dan fitur ES6, hingga konsep automation test menggunakan framework populer."
+  },
+  "261": {
+    "id": 261,
+    "title": "Belajar Back-End Pemula dengan JavaScript",
+    "hours": "48 jam",
+    "summary": "Pelajari dasar dalam membangun RESTful API, dari HTTP server, routing, hingga membangun Back-End untuk aplikasi yang nyata."
+  },
+  "266": {
+    "id": 266,
+    "title": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
+    "hours": "40 jam",
+    "summary": "Pelajari cara membangun arsitektur cloud di AWS, dari yang sederhana dengan Amazon S3 hingga yang canggih dengan teknologi serverless."
+  },
+  "271": {
+    "id": 271,
+    "title": "Belajar Fundamental Back-End dengan JavaScript",
+    "hours": "119 jam",
+    "summary": "Pelajari teknologi dalam membangun RESTful API yang canggih seperti Database, Storage, hingga Authentication dan Authorization."
+  },
+  "276": {
+    "id": 276,
+    "title": "Menjadi Back-End Developer Expert dengan JavaScript",
+    "hours": "81 jam",
+    "summary": "Pelajari teknik Automation Testing, Clean Architecture, CI/CD, Security, dan Scalability dalam membangun RESTful API berskala industri."
+  },
+  "281": {
+    "id": 281,
+    "title": "Simulasi Ujian Associate Cloud Engineer",
+    "hours": "25 jam",
+    "summary": "Latihan ujian sebagai persiapan pengambilan ujian sertifikasi Associate Cloud Engineer pada program Google Developers Certification."
+  },
+  "292": {
+    "id": 292,
+    "title": "Meniti Karier sebagai Software Developer",
+    "hours": "7 jam",
+    "summary": "Pelajari berbagai jalur yang tersedia sebagai Software Developer dari sudut pandang developer ahli yang sudah meniti karier di bidangnya."
+  },
+  "315": {
+    "id": 315,
+    "title": "Belajar Membuat Front-End Web untuk Pemula",
+    "hours": "56 jam",
+    "summary": "Pelajari materi mengenai DOM manipulation, Event, dan Web Storage untuk meningkatkan fungsionalitas dan interaktifitas pada website Anda."
+  },
+  "317": {
+    "id": 317,
+    "title": "Belajar Dasar Git dengan GitHub",
+    "hours": "15 jam",
+    "summary": "Pelajari cara mengelola data atau kode menggunakan Git dengan GitHub, mulai dari dasar-dasar Git hingga berkolaborasi dengan tim."
+  },
+  "319": {
+    "id": 319,
+    "title": "Machine Learning Terapan",
+    "hours": "69 jam",
+    "summary": "Pelajari penerapan machine learning dengan real-world projects mulai dari predictive analytics, sentiment analysis, dan sistem rekomendasi."
+  },
+  "332": {
+    "id": 332,
+    "title": "Menjadi Google Cloud Architect",
+    "hours": "35 jam",
+    "summary": "Pelajari cara membangun arsitektur cloud di Google Cloud, dari membuat virtual machine hingga membangun arsitektur yang highly available."
+  },
+  "335": {
+    "id": 335,
+    "title": "Belajar Dasar UX Design",
+    "hours": "36 jam",
+    "summary": "Belajar membuat User Experience yang menarik & menyenangkan menggunakan Design Thinking, mulai dari mencari masalah hingga membuat solusi."
+  },
+  "337": {
+    "id": 337,
+    "title": "Belajar Dasar Google Cloud",
+    "hours": "12 jam",
+    "summary": "Mengenal konsep, terminologi, dan layanan yang digunakan dalam teknologi cloud. Hingga cara meningkatkan nilai bisnis bersama Google Cloud."
+  },
+  "342": {
+    "id": 342,
+    "title": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
+    "hours": "45 jam",
+    "summary": "Belajar membuat RESTful API, dari HTTP server, routing, hingga membangun aplikasi Back-End dengan Google Cloud menggunakan Compute Engine."
+  },
+  "352": {
+    "id": 352,
+    "title": "Belajar Pengembangan Aplikasi Android Intermediate",
+    "hours": "150 jam",
+    "summary": "Tingkatkan pengalaman pengguna dengan mempelajari Custom View, Animation, Localization, Media, Location, Testing, dan Advanced Database."
+  },
+  "382": {
+    "id": 382,
+    "title": "Belajar Dasar-Dasar DevOps",
+    "hours": "15 jam",
+    "summary": "Pelajari kultur, praktik, dan tools pada DevOps yang memungkinkan proses pengembangan aplikasi menjadi lebih cepat, efisien, dan aman."
+  },
+  "387": {
+    "id": 387,
+    "title": "Belajar Jaringan Komputer untuk Pemula",
+    "hours": "26 jam",
+    "summary": "Telusuri teori dan praktik mengenai jaringan komputer, mulai dari dasar-dasar jaringan komputer hingga implementasi layanan jaringan di AWS."
+  },
+  "403": {
+    "id": 403,
+    "title": "Belajar Membuat Aplikasi Web dengan React",
+    "hours": "35 jam",
+    "summary": "Pelajari kemampuan dasar dalam membuat aplikasi React seperti element, component, props, event handling, dan state."
+  },
+  "413": {
+    "id": 413,
+    "title": "Belajar Fundamental Aplikasi Web dengan React",
+    "hours": "55 jam",
+    "summary": "Pelajari penerapan validasi props, client routing, transaksi RESTful API, hingga React Hooks sebagai fondasi dalam membangun aplikasi React."
+  },
+  "418": {
+    "id": 418,
+    "title": "Menjadi React Web Developer Expert",
+    "hours": "70 jam",
+    "summary": "Pelajari kaidah penulisan kode, state management dengan Redux, testing, hingga deployment dengan CI/CD pada pengembangan aplikasi React-mu."
+  },
+  "423": {
+    "id": 423,
+    "title": "Menjadi Linux System Administrator",
+    "hours": "25 jam",
+    "summary": "Pelajari sistem operasi Linux secara mendalam, mulai dari perintah dasar, pemrograman shell, pengelolaan sistem, hingga container Linux."
+  },
+  "428": {
+    "id": 428,
+    "title": "Belajar Implementasi CI/CD",
+    "hours": "30 jam",
+    "summary": "Raih aplikasi yang berkualitas tinggi dengan mengimplementasikan CI/CD ke dalam siklus pengembangan aplikasimu."
+  },
+  "433": {
+    "id": 433,
+    "title": "Belajar Membangun Arsitektur Microservices",
+    "hours": "60 jam",
+    "summary": "Asah dan uji keterampilanmu dalam membangun arsitektur microservices dengan mempraktikkan Container, Container Registry, dan Kubernetes."
+  },
+  "443": {
+    "id": 443,
+    "title": "Machine Learning Operations (MLOps)",
+    "hours": "95 jam",
+    "summary": "Pelajari proses pengembangan dan pengoperasian sistem machine learning dalam lingkup produksi dengan menerapkan berbagai prinsip MLOps."
+  },
+  "445": {
+    "id": 445,
+    "title": "Belajar Membuat Aplikasi Android dengan Jetpack Compose",
+    "hours": "50 jam",
+    "summary": "Saatnya mendesain UI dengan lebih mudah cepat dan mudah dengan menggunakan Jetpack Compose, cara modern untuk membuat layout di Android."
+  },
+  "480": {
+    "id": 480,
+    "title": "Belajar Pengembangan Aplikasi Flutter Intermediate",
+    "hours": "80 jam",
+    "summary": "Tingkatkan pengalaman pengguna dengan mempelajari Advanced Navigation, Media, Localization, Flutter Desktop, Animation, dan Location."
+  },
+  "555": {
+    "id": 555,
+    "title": "Belajar Fundamental Analisis Data",
+    "hours": "70 jam",
+    "summary": "Pelajari berbagai konsep dasar analisis data beserta tahapannya, dilengkapi pembahasan studi kasus menggunakan bahasa pemrograman Python. "
+  },
+  "565": {
+    "id": 565,
+    "title": "Belajar Toolset untuk Pengembangan Front-End Web",
+    "hours": "65 jam",
+    "summary": "Pelajari tools berstandar industri dengan Sass, Bootstrap, Lit, Axios, dan Firebase dalam membangun aplikasi web yang efisien dan powerful."
+  },
+  "570": {
+    "id": 570,
+    "title": "Belajar Dasar Manajemen Proyek",
+    "hours": "9 jam",
+    "summary": "Mempelajari dasar manajemen proyek, siklus dan metodologi manajemen proyek, hingga mengejar karir manajemen proyek."
+  },
+  "580": {
+    "id": 580,
+    "title": "Belajar Pemrograman Fungsional dengan Haskell",
+    "hours": "20 jam",
+    "summary": "Perdalam kemampuan pemrograman fungsional dengan Haskell melalui teknik list comprehension, pattern matching, hingga higher order functions."
+  },
+  "590": {
+    "id": 590,
+    "title": "Belajar Penerapan Data Science",
+    "hours": "74 jam",
+    "summary": "Pelajari tools, teknik, dan penerapan data science melalui berbagai studi kasus yang umum dijumpai di industri."
+  },
+  "600": {
+    "id": 600,
+    "title": "Belajar Dasar Structured Query Language (SQL)",
+    "hours": "10 jam",
+    "summary": "Pelajari berbagai konsep dasar structured query language (SQL) mulai dari pengenalan data dan basis data hingga berlatih basic query."
+  },
+  "605": {
+    "id": 605,
+    "title": "Memulai Pemrograman dengan Haskell",
+    "hours": "20 jam",
+    "summary": "Belajar pemrograman Haskell yang merupakan bahasa fungsional murni dan didesain untuk pembelajaran, riset, dan aplikasi industri."
+  },
+  "610": {
+    "id": 610,
+    "title": "Menjadi Node.js Application Developer",
+    "hours": "57 jam",
+    "summary": "Pelajari core module Node.js secara mendalam agar mampu membangun aplikasi untuk berbagai tujuan dengan menggunakan JavaScript."
+  },
+  "615": {
+    "id": 615,
+    "title": "Belajar Dasar Data Science",
+    "hours": "11 jam",
+    "summary": "Pelajari dasar data science mulai dari pengenalan data hingga membuat portofolio untuk mengantarkan Anda menjadi seorang data scientist."
+  },
+  "620": {
+    "id": 620,
+    "title": "Belajar Pemrograman Prosedural dengan Python",
+    "hours": "33 jam",
+    "summary": "Pelajari konsep pemrograman prosedural dalam menyusun program Python untuk pemecahan masalah berdasarkan aksi yang terstruktur."
+  },
+  "653": {
+    "id": 653,
+    "title": "Belajar Dasar AI",
+    "hours": "10 jam",
+    "summary": "Kelas ini memberikan pemahaman terkait dasar-dasar Artificial Intelligence dan subbidang AI mencakup Machine Learning serta Deep Learning."
+  },
+  "658": {
+    "id": 658,
+    "title": "Belajar Penerapan Machine Learning dengan Google Cloud",
+    "hours": "40 jam",
+    "summary": "Pelajari penerapan machine learning di Google Cloud mulai dari mengembangkan model hingga membangun aplikasi machine learning."
+  },
+  "663": {
+    "id": 663,
+    "title": "Belajar Penerapan Machine Learning untuk Android",
+    "hours": "60 jam",
+    "summary": "Kembangkan keterampilan integrasi Machine Learning di Android dengan memanfaatkan ML Kit, TensorFlow Lite, MediaPipe, dan Firebase ML."
+  },
+  "697": {
+    "id": 697,
+    "title": "Belajar Strategi Pengembangan Diri",
+    "hours": "12 jam",
+    "summary": "Jelajahi potensi diri, hadapi tantangan dengan keberanian, dan raih kesuksesan yang bermakna melalui pengembangan diri."
+  },
+  "708": {
+    "id": 708,
+    "title": "Belajar Fundamental Pemrosesan Data",
+    "hours": "70 jam",
+    "summary": "Pelajari cara menyiapkan dan memproses data untuk proyek data science dan machine learning menggunakan Python, SQL, dan PostgreSQL."
+  },
+  "713": {
+    "id": 713,
+    "title": "Membangun Sistem Machine Learning",
+    "hours": "90 jam",
+    "summary": "Pelajari cara menerapkan model machine learning pada tahap produksi dengan membuat dan mengimplementasikan prinsip MLOps menggunakan MLflow."
+  },
+  "718": {
+    "id": 718,
+    "title": "Belajar Strategi Perencanaan Karier",
+    "hours": "20 jam",
+    "summary": "Pelajari strategi perencanaan karier mulai dari pemetaan, pencarian kerja, hingga persiapan melamar kerja untuk meraih karier impian."
+  },
+  "743": {
+    "id": 743,
+    "title": "Belajar Back-End Pemula dengan Python",
+    "hours": "39 jam",
+    "summary": "Pelajari cara membangun RESTful API dengan Python, mulai dari pengembangan di lokal hingga deployment ke Google Cloud."
+  },
+  "753": {
+    "id": 753,
+    "title": "Prompt Engineering untuk Software Developer",
+    "hours": "16 jam",
+    "summary": "Pelajari penerapan berbagai pola dan best practices prompt engineering dalam berbagai aktivitas software development."
+  },
+  "758": {
+    "id": 758,
+    "title": "Belajar Penerapan Machine Learning untuk Flutter",
+    "hours": "60 jam",
+    "summary": "Pelajari implementasi machine learning di Flutter dengan memanfaatkan generative AI dan teknologi lain, seperti ML Kit serta LiteRT."
+  },
+  "788": {
+    "id": 788,
+    "title": "Belajar Fundamental Back-End dengan Python",
+    "hours": "65 jam",
+    "summary": "Kuasai konsep fundamental Back-End menggunakan Python seperti database, queue, dan caching untuk membangun Back-End yang andal dan skalabel."
+  },
+  "818": {
+    "id": 818,
+    "title": "Membangun Proyek Deep Learning Tingkat Mahir",
+    "hours": "90 jam",
+    "summary": "Pelajari teknik deep learning tingkat mahir agar dapat mengkustomisasi model dan training hingga mengimplementasikan berbagai algoritma."
+  },
+  "831": {
+    "id": 831,
+    "title": "Belajar Matematika untuk Data Science",
+    "hours": "70 jam",
+    "summary": "Pelajari fundamental matematika sebagai fondasi kuat dalam memahami dan menerapkan data science secara efektif."
+  },
+  "862": {
+    "id": 862,
+    "title": "AI Praktis untuk Produktivitas",
+    "hours": "25 jam",
+    "summary": "Pelajari konsep dasar AI, manfaatkan alat AI, kuasai prompt engineering, dan gunakan AI secara etis untuk tetap unggul di era digital."
+  },
+  "867": {
+    "id": 867,
+    "title": "Belajar Penggunaan Generative AI",
+    "hours": "30 jam",
+    "summary": "Kuasai generative AI untuk meningkatkan kreativitas, produktivitas, dan penggunaan AI yang bertanggung jawab dalam berbagai bidang."
+  },
+  "881": {
+    "id": 881,
+    "title": "Belajar Pemrograman Rust untuk Pemula",
+    "hours": "40 jam",
+    "summary": "Kuasai dasar Rust untuk menulis kode aman, cepat, dan idiomatik, dari ownership hingga error handling, serta membangun aplikasi CLI praktis."
+  },
+  "882": {
+    "id": 882,
+    "title": "Belajar Penerapan AI di Aplikasi Web",
+    "hours": "50 jam",
+    "summary": "Ciptakan pengalaman web interaktif menggunakan Computer Vision dan Generative AI yang dapat berjalan secara lokal langsung di browser."
+  },
+  "884": {
+    "id": 884,
+    "title": "Pengenalan NVIDIA AI Enterprise",
+    "hours": "8 jam",
+    "summary": "Pelajari platform NVIDIA AI Enterprise dan cara membangun solusi AI enterprise-ready yang aman, scalable, dan siap produksi."
+  },
+  "890": {
+    "id": 890,
+    "title": "Akselerasi Karier dan Produktivitas dengan Gemini",
+    "hours": "20 jam",
+    "summary": "Kelas ini memandu persiapan karier Anda mulai dari analisis diri, personal branding, membuat resume, hingga latihan wawancara dengan Gemini."
+  },
+  "893": {
+    "id": 893,
+    "title": "Belajar Dasar Cyber Security",
+    "hours": "20 jam",
+    "summary": "Bekali diri dengan pengetahuan siber, mulai dari mengenal definisi dasar, ancaman, penerapan praktis, hingga cara menjadi praktisi andal."
+  },
+  "896": {
+    "id": 896,
+    "title": "Belajar Fundamental Generative AI",
+    "hours": "60 jam",
+    "summary": "Pelajari penggunaan dan pengembangan model Generative AI di berbagai modalitas mulai dari teks, gambar, hingga audio."
+  },
+  "899": {
+    "id": 899,
+    "title": "Membangun Aplikasi Gen AI dengan Microsoft Azure",
+    "hours": "7 jam",
+    "summary": "Bangun aplikasi chat interaktif dengan language model dan Generative AI. Kuasai fitur utama Azure AI Foundry seperti Prompt Flow & RAG."
+  },
+  "902": {
+    "id": 902,
+    "title": "Belajar Penerapan Data Science dengan Microsoft Fabric",
+    "hours": "6 jam",
+    "summary": "Pelajari data science end-to-end di Microsoft Fabric. Mulai dari eksplorasi data, bangun model ML, hingga deploy dan monitor hasilnya."
+  },
+  "908": {
+    "id": 908,
+    "title": "Belajar Dasar Pengembangan Aplikasi Mobile",
+    "hours": "16 jam",
+    "summary": "Pahami ekosistem, teknologi, dan alur pengembangan aplikasi mobile sebagai fondasi utama untuk menjadi Mobile Developer."
+  },
+  "929": {
+    "id": 929,
+    "title": "Spec-Driven Development dengan Kiro",
+    "hours": "9 jam",
+    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+  },
+  "9100": {
+    "id": 9100,
+    "title": "Soft Skills (4 modul + tugas)",
+    "hours": "20 jam",
+    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+
+  },
+  "9101": {
+    "id": 9101,
+    "title": "Persiapan Karir",
+    "hours": "2 jam",
+    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+
+  },
+  "9102": {
+    "id": 9102,
+    "title": "Sesi Review Expert (10 sesi)",
+    "hours": "20 jam",
+    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+  },
+  "9103": {
+    "id": 9103,
+    "title": "Monitoring & Progress Report",
+    "hours": "33 jam",
+    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+  },
+  "9104": {
+    "id": 9104,
+    "title": "Capstone Project",
+    "hours": "90 jam",
+    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+  }
+}

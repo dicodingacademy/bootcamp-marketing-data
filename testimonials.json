@@ -1,0 +1,38 @@
+{
+  "yuyu": {
+    "id": "yuyu",
+    "photoSrc": "/images/paket-pelatihan/testimonials/yuyu.svg",
+    "photoWidth": 600,
+    "photoHeight": 600,
+    "alumniBadgeLabel": "Lulusan Dicoding Bootcamp Batch 6",
+    "quote": "Struktur pembelajaran Dicoding terorganisir dengan sangat baik. Saya mendapatkan materi pemrograman yang lebih runut dan jelas. Dari situ saya berhasil menjadi lulusan terbaik bootcamp.",
+    "ctaLabel": "Tonton cerita",
+    "ctaHref": "https://www.youtube.com/@dicoding",
+    "name": "Yuyu Aliwahyudin",
+    "role": "Web Developer - Samudra Aplikasi Indonesia"
+  },
+  "oka": {
+    "id": "oka",
+    "photoSrc": "/images/paket-pelatihan/testimonials/oka.svg",
+    "photoWidth": 200,
+    "photoHeight": 200,
+    "alumniBadgeLabel": null,
+    "quote": "Dicoding Bootcamp tak hanya menawarkan pengetahuan technical, tetapi juga memberikan kelas soft skills yang bisa menunjang karier saya.",
+    "ctaLabel": "Baca selengkapnya",
+    "ctaHref": "https://blog.dicoding.com",
+    "name": "Oka Widhyarta",
+    "role": "Software Engineer - Insight Timer (Australia)"
+  },
+  "ahmad": {
+    "id": "ahmad",
+    "photoSrc": "/images/paket-pelatihan/testimonials/ahmad.svg",
+    "photoWidth": 200,
+    "photoHeight": 200,
+    "alumniBadgeLabel": null,
+    "quote": "Saya berlatar belakang non-IT, tapi Dicoding memberikan lingkungan belajar yang suportif sehingga memudahkan saya memahami materi.",
+    "ctaLabel": "Baca selengkapnya",
+    "ctaHref": "https://blog.dicoding.com",
+    "name": "Ahmad Fauzi",
+    "role": "Co-Founder - Heptalution"
+  }
+}

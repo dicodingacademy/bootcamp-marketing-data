@@ -1,0 +1,20 @@
+{
+  "turahan": {
+    "id": "turahan",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/turahan.svg",
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 400,
+    "batchPill": "Batch 1 • Front-End & Back-End",
+    "title": "Turahan",
+    "description": "Platform pengelolaan makanan sisa layak makan untuk mengurangi food waste. Menghubungkan donatur makanan dengan penerima manfaat."
+  },
+  "holohero": {
+    "id": "holohero",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/holohero.svg",
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 400,
+    "batchPill": "Batch 2 • React & Back-End",
+    "title": "Holohero",
+    "description": "Aplikasi web manajemen kos-kosan lengkap dengan fitur pencarian, booking, dan dashboard pengelola."
+  }
+}
