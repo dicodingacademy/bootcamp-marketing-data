@@ -6,7 +6,8 @@
       "title": "Bangun Aplikasi Web Lengkap dengan React + Django",
       "description": "Kuasai front-end dan back-end dalam satu program intensif. Dalam 20 minggu, kamu akan membangun portofolio nyata bersama tim agar siap untuk berkarier sebagai Full-Stack Developer.",
       "details": [
-        { "label": "Pelaksanaan", "value": "Juni - Oktober 2026 • Online", "iconKey": "calendar" },
+        { "label": "Program Berlangsung", "value": "Juni - Oktober 2026", "iconKey": "calendar" },
+        { "label": "Pelaksanaan", "value": "Online", "iconKey": "monitor" },
         { "label": "Siswa akan memperoleh", "value": "Sertifikat Kelulusan", "iconKey": "certificate" }
       ],
       "registrationDeadlineNote": "Pendaftaran dibuka hingga 31 Mei 2026",
