@@ -82,6 +82,17 @@
             { "label": "Pelaksanaan", "value": "Juni–Oktober 2026", "iconKey": "clock" }
           ],
           "registerHref": "/anonymous-registration/1"
+        },
+        {
+          "id": "cicilan",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 64%",
+          "finalPrice": "Rp1.000.000",
+          "schedule": [
+            { "label": "Pendaftaran", "value": "18 Februari–31 Mei 2026", "iconKey": "calendar" },
+            { "label": "Pelaksanaan", "value": "Juni–Oktober 2026", "iconKey": "clock" }
+          ],
+          "registerHref": "/anonymous-registration/1"
         }
       ],
       "benefits": [

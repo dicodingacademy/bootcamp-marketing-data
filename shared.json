@@ -94,8 +94,10 @@
     "bundlingBadgeLabel": "Bayar bundling spesial",
     "payOnceHighlightLabel": "Nilai Terbaik",
     "payOnceTitle": "Bayar Sekali, Fokus Belajar Sepenuhnya",
+    "payOnceTabLabel": "Bayar Penuh",
     "installmentTitle": "Fokus Belajar Dulu, Bayar Bertahap",
-    "installmentCaption": "Dapat dicicil hingga 5 bulan",
+    "installmentTabLabel": "Cicilan",
+    "installmentCaption": "5x pembayaran",
     "countdownNote": "Promo berakhir dalam"
   },
   "ctaLabels": {
