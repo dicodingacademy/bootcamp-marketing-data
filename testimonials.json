@@ -1,7 +1,7 @@
 {
   "yuyu": {
     "id": "yuyu",
-    "photoSrc": "/images/paket-pelatihan/testimonials/yuyu.avif",
+    "photoSrc": "/images/paket-pelatihan/testimonials/yuyu.png",
     "photoWidth": 600,
     "photoHeight": 600,
     "alumniBadgeLabel": "Lulusan Dicoding Bootcamp Batch 6",
@@ -13,7 +13,7 @@
   },
   "oka": {
     "id": "oka",
-    "photoSrc": "/images/paket-pelatihan/testimonials/oka.avif",
+    "photoSrc": "/images/paket-pelatihan/testimonials/oka.png",
     "photoWidth": 200,
     "photoHeight": 200,
     "alumniBadgeLabel": null,
@@ -49,7 +49,7 @@
   },
   "acarya": {
     "id": "acarya",
-    "photoSrc": "/images/paket-pelatihan/testimonials/acarya.avif",
+    "photoSrc": "/images/paket-pelatihan/testimonials/acarya.png",
     "photoWidth": 200,
     "photoHeight": 200,
     "alumniBadgeLabel": null,
@@ -61,7 +61,7 @@
   },
   "fuad": {
     "id": "fuad",
-    "photoSrc": "/images/paket-pelatihan/testimonials/fuad.avif",
+    "photoSrc": "/images/paket-pelatihan/testimonials/fuad.png",
     "photoWidth": 200,
     "photoHeight": 200,
     "alumniBadgeLabel": null,

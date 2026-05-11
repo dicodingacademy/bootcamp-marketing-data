@@ -1,7 +1,7 @@
 {
   "turahan": {
     "id": "turahan",
-    "thumbnailSrc": "/images/paket-pelatihan/capstone/turahan.avif",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/turahan.png",
     "thumbnailWidth": 600,
     "thumbnailHeight": 400,
     "batchPill": "Batch 1 • Front-End & Back-End",
@@ -10,7 +10,7 @@
   },
   "porter": {
     "id": "porter",
-    "thumbnailSrc": "/images/paket-pelatihan/capstone/porter.avif",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/porter.png",
     "thumbnailWidth": 600,
     "thumbnailHeight": 400,
     "batchPill": "Batch 1 • Android Developer",
@@ -19,7 +19,7 @@
   },
   "holohero": {
     "id": "holohero",
-    "thumbnailSrc": "/images/paket-pelatihan/capstone/holohero.avif",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/holohero.png",
     "thumbnailWidth": 600,
     "thumbnailHeight": 400,
     "batchPill": "Batch 2 • React & Back-End",
@@ -28,7 +28,7 @@
   },
   "mamen": {
     "id": "mamen",
-    "thumbnailSrc": "/images/paket-pelatihan/capstone/mamen.avif",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/mamen.png",
     "thumbnailWidth": 600,
     "thumbnailHeight": 400,
     "batchPill": "Batch 3 • Front-end & Back-End Developer",
