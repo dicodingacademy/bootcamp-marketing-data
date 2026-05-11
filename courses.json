@@ -568,5 +568,11 @@
     "title": "Capstone Project",
     "hours": "90 jam",
     "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+  },
+  "9900": {
+    "id": 9900,
+    "title": "Coming Soon",
+    "hours": "-",
+    "summary": "Kami sedang menyusun rincian kompetensi yang akan Anda dapatkan dari program ini. Nantikan pembaruannya!"
   }
 }
