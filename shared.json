@@ -57,23 +57,23 @@
     "menuItems": [
       {
         "label": "Track Pembelajaran",
-        "href": "#"
+        "href": "https://bootcamp.dicoding.com/#track"
       },
       {
         "label": "Paket Pelatihan",
-        "href": "#"
+        "href": "https://bootcamp.dicoding.com/paket-pelatihan"
       },
       {
         "label": "Hiring Partner",
-        "href": "#"
+        "href": "https://bootcamp.dicoding.com/#hiring-partner"
       },
       {
         "label": "Testimoni",
-        "href": "#"
+        "href": "https://bootcamp.dicoding.com/#testimoni"
       },
       {
         "label": "FAQ",
-        "href": "#"
+        "href": "https://bootcamp.dicoding.com/#faq"
       }
     ]
   },
