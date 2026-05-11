@@ -1,40 +1,109 @@
 {
   "announcementBar": {
-    "endsAt": "2026-05-31T23:59:59+07:00",
-    "prefix": "🎀 Spesial Hari Kartini ",
-    "highlights": ["Diskon 57%", "Bonus Langganan 30 Hari"],
-    "suffix": "untuk pendaftaran Bootcamp. Berlaku hingga"
+    "endsAt": "2026-05-20T23:59:59+07:00",
+    "prefix": "🎁 Spesial Bundling Merchandise! Dapat ",
+    "highlights": [
+      "Diskon 60%",
+      "Hoodie",
+      "Tumbler Dicoding"
+    ],
+    "suffix": "untuk pendaftaran hingga"
   },
   "stats": [
-    { "value": "90", "label": "Jam capstone project" },
-    { "value": "10+", "label": "Sesi tatap muka expert" },
-    { "value": "2.800+", "label": "Alumni Dicoding berkarier" },
-    { "value": "490+", "label": "Jam aktivitas belajar" }
+    {
+      "value": "90",
+      "label": "Jam capstone project"
+    },
+    {
+      "value": "10+",
+      "label": "Sesi tatap muka dengan expert"
+    },
+    {
+      "value": "2.800+",
+      "label": "Alumni Dicoding berkarier"
+    },
+    {
+      "value": "490+",
+      "label": "Jam aktivitas belajar"
+    }
   ],
   "anchorNav": [
-    { "label": "Outcome", "href": "#outcome" },
-    { "label": "Timeline Program", "href": "#timeline" },
-    { "label": "Kurikulum", "href": "#kurikulum" },
-    { "label": "Portofolio", "href": "#portofolio" },
-    { "label": "Mentor", "href": "#mentor" },
-    { "label": "Biaya & Jadwal", "href": "#biaya" }
+    {
+      "label": "Outcome",
+      "href": "#outcome"
+    },
+    {
+      "label": "Timeline Program",
+      "href": "#timeline"
+    },
+    {
+      "label": "Kurikulum",
+      "href": "#kurikulum"
+    },
+    {
+      "label": "Portofolio",
+      "href": "#portofolio"
+    },
+    {
+      "label": "Mentor",
+      "href": "#mentor"
+    },
+    {
+      "label": "Biaya & Jadwal",
+      "href": "#biaya"
+    }
   ],
   "pageNav": {
     "menuItems": [
-      { "label": "Track Pembelajaran", "href": "#" },
-      { "label": "Paket Pelatihan", "href": "#" },
-      { "label": "Hiring Partner", "href": "#" },
-      { "label": "Testimoni", "href": "#" },
-      { "label": "FAQ", "href": "#" }
+      {
+        "label": "Track Pembelajaran",
+        "href": "#"
+      },
+      {
+        "label": "Paket Pelatihan",
+        "href": "#"
+      },
+      {
+        "label": "Hiring Partner",
+        "href": "#"
+      },
+      {
+        "label": "Testimoni",
+        "href": "#"
+      },
+      {
+        "label": "FAQ",
+        "href": "#"
+      }
     ]
   },
   "methods": {
     "headerLabel": "Metode belajar",
     "items": [
-      { "id": "self-paced", "iconKey": "book-open", "title": "Self-paced Learning", "description": "Modul interaktif di platform Dicoding, belajar sesuai preferensi pribadi." },
-      { "id": "live", "iconKey": "lightbulb", "title": "Live Session Expert", "description": "10+ sesi tatap muka online bersama praktisi industri." },
-      { "id": "mentoring", "iconKey": "users", "title": "Mentoring 1-on-1", "description": "Konsultasi pribadi dengan mentor untuk setiap kendala." },
-      { "id": "capstone", "iconKey": "rocket", "title": "Capstone Project", "description": "Proyek tim nyata selama 90 jam sebagai portofolio." }
+      {
+        "id": "self-paced",
+        "iconKey": "book-open",
+        "title": "Self-paced Learning",
+        "description": "Modul interaktif di platform Dicoding, belajar sesuai preferensi pribadi."
+      },
+      {
+        "id": "live",
+        "iconKey": "lightbulb",
+        "title": "Live Session Expert",
+        "description": "10+ sesi tatap muka online bersama praktisi industri."
+      },
+      {
+        "id": "mentoring",
+        "iconKey": "users",
+        "title": "Mentoring 1-on-1",
+        "description": "Konsultasi pribadi dengan mentor untuk setiap kendala."
+      },
+      {
+        "id": "capstone",
+        "iconKey": "rocket",
+        "title": "Capstone Project",
+        "description": "Proyek tim nyata selama 90 jam sebagai portofolio."
+      }
     ]
   },
   "mentors": {
@@ -50,22 +119,51 @@
     "pillLabel": "Capstone Project",
     "title": "Portofolio Alumni Dicoding Bootcamp",
     "description": "Di akhir program, Anda membangun aplikasi nyata bersama tim untuk menyelesaikan masalah di masyarakat, didampingi advisor dan dipresentasikan ke hiring partners.",
-    "projectIds": ["turahan", "holohero"]
+    "projectIds": [
+      "abai",
+      "falt"
+    ]
   },
   "testimonials": {
     "pillLabel": "Testimoni",
     "title": "Dari Bootcamp ke Karier Nyata, Mereka Sudah Membuktikannya",
-    "testimonialIds": ["yuyu", "oka", "ahmad"]
+    "testimonialIds": [
+      "yuyu",
+      "oka",
+      "fuad"
+    ]
   },
   "faq": {
     "title": "Frequently Asked Questions",
     "contactPrompt": "Punya pertanyaan lain?",
     "contactCtaLabel": "Tanya via WhatsApp",
-    "contactCtaHref": "https://wa.me/6281234567890",
+    "contactCtaHref": "https://dicoding.id/wabootcamp",
     "items": [
-      { "id": "vs-gratis", "question": "Apa bedanya dengan kursus online gratis?", "answer": "Dicoding Bootcamp menyediakan kurikulum terstruktur, mentoring 1-on-1, capstone project tim, sertifikat resmi, serta akses ke hiring partners — yang tidak Anda dapatkan dari kursus mandiri." },
-      { "id": "kerja", "question": "Apakah ada bantuan penyaluran kerja?", "answer": "Ya. Kami memfasilitasi sesi mock interview, review CV, dan menghubungkan lulusan dengan hiring partners yang mencari talent dari Dicoding Bootcamp." },
-      { "id": "selesai", "question": "Bagaimana jika saya tidak bisa menyelesaikan program?", "answer": "Anda akan mendapat pendampingan mentor dan tim akademik untuk mengatasi kendala. Jika ada kondisi force majeure, kami punya kebijakan defer ke batch berikutnya." }
+      {
+        "id": "bg-it",
+        "question": "Apakah saya harus punya background IT?",
+        "answer": "Tidak harus. Program ini dimulai dari dasar dan dirancang agar bisa diikuti oleh siapa saja yang melek komputer. Banyak alumni kami yang berasal dari latar belakang non-IT dan berhasil berkarier di bidang tech."
+      },
+      {
+        "id": "komitmen",
+        "question": "Berapa komitmen waktu per hari?",
+        "answer": "Anda perlu menyediakan 5-6 jam per hari untuk mengikuti materi self-paced, mengerjakan tugas, dan menghadiri sesi live. Jadwal belajar fleksibel, yang penting total jam terpenuhi."
+      },
+      {
+        "id": "vs-gratis",
+        "question": "Apa bedanya dengan kursus online gratis?",
+        "answer": "Kursus gratis memberi materi, tapi tidak memberi struktur, mentor, review kode oleh expert, proyek tim berskala nyata, atau akses ke hiring partners. Dicoding Bootcamp dirancang sebagai program intensif yang menghasilkan developer siap kerja, bukan sekadar pemberi sertifikat."
+      },
+      {
+        "id": "kerja",
+        "question": "Apakah ada bantuan penyaluran kerja?",
+        "answer": "Ya. Di akhir program ada sesi career preparation bersama hiring partners. Profil lulusan terbaik diprioritaskan untuk screening awal oleh perusahaan partner Dicoding."
+      },
+      {
+        "id": "end-program",
+        "question": "Bagaimana jika saya tidak bisa menyelesaikan program?",
+        "answer": "Tim fasilitator akan memantau progress secara berkala. Jika Anda mengalami kendala, tersedia sesi konsultasi dan banding kehadiran. Kami ingin setiap peserta berhasil, oleh karena itu terdapat sistem monitoring mingguan."
+      }
     ]
   },
   "footer": {
@@ -73,14 +171,14 @@
     "watermark": "dicoding"
   },
   "whatsapp": {
-    "href": "https://wa.me/6281234567890",
+    "href": "https://dicoding.id/wabootcamp",
     "tooltipTitle": "Punya pertanyaan?",
     "tooltipBody": "Silakan hubungi kami via WhatsApp"
   },
   "sectionLabels": {
     "outcomePillLabel": "Outcome",
     "outcomeTitle": "Kemampuan Nyata yang akan Anda Miliki",
-    "outcomeDescription": "Dari nol sampai bisa bangun aplikasi lengkap. Bukan sekadar teori, setiap skill langsung dipraktikkan dalam proyek.",
+    "outcomeDescription": "Dari nol sampai bisa bangun aplikasi web lengkap. Bukan sekadar teori, setiap skill langsung dipraktikkan dalam proyek.",
     "timelinePillLabel": "Timeline Program",
     "timelineDescription": "Belajar bertahap, dipandu expert, dan langsung praktik di setiap tahap.",
     "curriculumPillLabel": "Detail Kurikulum",
@@ -97,7 +195,7 @@
     "payOnceTabLabel": "Bayar Penuh",
     "installmentTitle": "Fokus Belajar Dulu, Bayar Bertahap",
     "installmentTabLabel": "Cicilan",
-    "installmentCaption": "5x pembayaran",
+    "installmentCaption": "Dapat dicicil hingga 5 bulan",
     "countdownNote": "Promo berakhir dalam"
   },
   "ctaLabels": {

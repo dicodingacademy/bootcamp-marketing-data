@@ -2,53 +2,134 @@
   "5": {
     "packageId": "5",
     "hero": {
-      "batchLabel": "Batch 14 • Kelas dimulai 2 Juni 2026",
+      "batchLabel": "Batch 14 • Kelas dimulai 8 Juni 2026",
       "title": "Bangun Aplikasi Web Lengkap dengan React + Django",
       "description": "Kuasai front-end dan back-end dalam satu program intensif. Dalam 20 minggu, kamu akan membangun portofolio nyata bersama tim agar siap untuk berkarier sebagai Full-Stack Developer.",
+      "audienceBadgeLabel": "Cocok untuk Pemula",
       "details": [
-        { "label": "Program Berlangsung", "value": "Juni - Oktober 2026", "iconKey": "calendar" },
-        { "label": "Pelaksanaan", "value": "Online", "iconKey": "monitor" },
-        { "label": "Siswa akan memperoleh", "value": "Sertifikat Kelulusan", "iconKey": "certificate" }
+        {
+          "label": "Pelaksanaan",
+          "value": "Juni–Oktober 2026 • Online",
+          "iconKey": "calendar"
+        },
+        {
+          "label": "Siswa akan memperoleh",
+          "value": "Sertifikat Kelulusan",
+          "iconKey": "certificate"
+        }
       ],
       "registrationDeadlineNote": "Pendaftaran dibuka hingga 31 Mei 2026",
       "originalPrice": "Rp14.000.000",
-      "discountLabel": "Disc 57%",
-      "finalPrice": "Rp6.000.000",
-      "registerHref": "/anonymous-registration/1",
-      "consultationHref": "https://wa.me/6281234567890"
+      "discountLabel": "Disc 60%",
+      "finalPrice": "Rp5.600.000",
+      "registerHref": "/registration",
+      "consultationHref": "https://api.whatsapp.com/send/?phone=6281533330242&text=%22Halo,%20apakah%20saya%20bisa%20dapat%20info%20lebih%20lanjut%20tentang%20Dicoding%20Bootcamp?%22&type=phone_number&app_absent=0"
     },
     "suitableFor": {
-      "pillLabel": null,
+      "pillLabel": "Peserta",
       "description": "Program ini dirancang untuk Anda yang ingin jadi web developer. Tidak perlu latar belakang IT, yang kamu butuhkan adalah komitmen dan kemauan belajar.",
       "prerequisite": {
         "title": "Catatan prasyarat:",
         "body": "Siap berkomitmen 5–6 jam/hari selama program."
       },
       "personas": [
-        { "id": "fresh-grad", "iconKey": "graduation-cap", "title": "Mahasiswa & Fresh Graduate", "description": "Ingin masuk industri tech dengan portofolio yang membuktikan kemampuan, bukan sekadar ijazah." },
-        { "id": "switcher", "iconKey": "briefcase", "title": "Career Switcher", "description": "Pekerja non-IT yang ingin transisi ke dunia web development dengan jalur pembelajaran yang terstruktur." },
-        { "id": "self-taught", "iconKey": "code", "title": "Self-taught Programmer", "description": "Sudah belajar sendiri tapi butuh struktur, mentor, dan proyek nyata untuk memvalidasi skill." },
-        { "id": "level-up", "iconKey": "rocket", "title": "Developer yang Ingin Naik Level", "description": "Menguasai satu sisi (front-end/back-end) dan ingin menjadi full-stack developer." }
+        {
+          "id": "fresh-grad",
+          "iconKey": "graduation-cap",
+          "title": "Mahasiswa & Fresh Graduate",
+          "description": "Ingin masuk industri tech dengan portofolio yang membuktikan kemampuan, bukan sekadar ijazah."
+        },
+        {
+          "id": "switcher",
+          "iconKey": "briefcase",
+          "title": "Career Switcher",
+          "description": "Pekerja non-IT yang ingin transisi ke dunia web development dengan jalur pembelajaran yang terstruktur."
+        },
+        {
+          "id": "self-taught",
+          "iconKey": "code",
+          "title": "Self-taught Programmer",
+          "description": "Sudah belajar sendiri tapi butuh struktur, mentor, dan proyek nyata untuk memvalidasi skill."
+        },
+        {
+          "id": "level-up",
+          "iconKey": "rocket",
+          "title": "Developer yang Ingin Naik Level",
+          "description": "Menguasai satu sisi (front-end/back-end) dan ingin menjadi full-stack developer."
+        }
       ]
     },
     "outcome": {
-      "techStack": ["React", "Python", "Django", "JavaScript", "HTML/CSS", "Git", "Google Cloud", "Postman"],
+      "techStack": [
+        "React",
+        "Python",
+        "Django",
+        "JavaScript",
+        "HTML/CSS",
+        "Git",
+        "Google Cloud",
+        "Postman"
+      ],
       "outcomes": [
-        { "id": "frontend", "title": "Front-end interaktif dengan React", "description": "Component-based UI, state management, routing, dan hooks." },
-        { "id": "backend", "title": "Back-end & API dengan Django + Python", "description": "RESTful API, database management, dan server-side logic." },
-        { "id": "deploy", "title": "Deployment ke Google Cloud", "description": "Deploy dan kelola aplikasi di lingkungan produksi." },
-        { "id": "git", "title": "Kolaborasi tim dengan Git & GitHub", "description": "Version control dan workflow kolaborasi standar industri." },
-        { "id": "thinking", "title": "Problem solving & critical thinking", "description": "Memecahkan masalah nyata, bukan sekadar mengikuti tutorial." },
-        { "id": "career", "title": "Kesiapan karir & personal branding", "description": "Interview prep, CV building, dan strategi pencarian kerja." }
+        {
+          "id": "frontend",
+          "title": "Front-end interaktif dengan React",
+          "description": "Component-based UI, state management, routing, dan hooks."
+        },
+        {
+          "id": "backend",
+          "title": "Back-end & API dengan Django + Python",
+          "description": "RESTful API, database management, dan server-side logic."
+        },
+        {
+          "id": "deploy",
+          "title": "Deployment ke Google Cloud",
+          "description": "Deploy dan kelola aplikasi di lingkungan produksi."
+        },
+        {
+          "id": "git",
+          "title": "Kolaborasi tim dengan Git & GitHub",
+          "description": "Version control dan workflow kolaborasi standar industri."
+        },
+        {
+          "id": "thinking",
+          "title": "Problem solving & critical thinking",
+          "description": "Memecahkan masalah nyata, bukan sekadar mengikuti tutorial."
+        },
+        {
+          "id": "career",
+          "title": "Kesiapan karir & personal branding",
+          "description": "Interview prep, CV building, dan strategi pencarian kerja."
+        }
       ]
     },
     "timeline": {
       "title": "20 Minggu Pembelajaran Intensif dari Fondasi hingga Bangun Portofolio",
       "items": [
-        { "id": "w1-4", "range": "Minggu 1–4", "title": "Fondasi Web & JavaScript", "description": "Pelajari dasar HTML, CSS, dan JavaScript. Mulai membangun halaman web pertama dan pahami cara browser bekerja." },
-        { "id": "w5-10", "range": "Minggu 5–10", "title": "React & Front-End Modern", "description": "Bangun UI interaktif dengan React. Dari component sederhana hingga aplikasi dengan routing, state, dan integrasi API." },
-        { "id": "w11-14", "range": "Minggu 11–14", "title": "Python & Django Back-End", "description": "Pelajari Python dan bangun RESTful API dengan Django. Database management, autentikasi, dan server-side logic." },
-        { "id": "w15-20", "range": "Minggu 15–20", "title": "Capstone Project & Persiapan Karir", "description": "Kerjakan proyek tim berbasis masalah nyata selama 90 jam. Didampingi advisor, dipresentasikan ke hiring partners." }
+        {
+          "id": "w1-4",
+          "range": "Minggu 1–4",
+          "title": "Fondasi Web & JavaScript",
+          "description": "Pelajari dasar HTML, CSS, dan JavaScript. Mulai membangun halaman web pertama dan pahami cara browser bekerja."
+        },
+        {
+          "id": "w5-10",
+          "range": "Minggu 5–10",
+          "title": "React & Front-End Modern",
+          "description": "Bangun UI interaktif dengan React. Dari component sederhana hingga aplikasi dengan routing, state, dan integrasi API."
+        },
+        {
+          "id": "w11-14",
+          "range": "Minggu 11–14",
+          "title": "Python & Django Back-End",
+          "description": "Pelajari Python dan bangun RESTful API dengan Django. Database management, autentikasi, dan server-side logic."
+        },
+        {
+          "id": "w15-20",
+          "range": "Minggu 15–20",
+          "title": "Capstone Project & Persiapan Karir",
+          "description": "Kerjakan proyek tim berbasis masalah nyata selama 90 jam. Didampingi advisor, dipresentasikan ke hiring partners."
+        }
       ]
     },
     "curriculum": {
@@ -57,42 +138,89 @@
           "id": "teknis",
           "headerLabel": "Materi Teknis",
           "groups": [
-            { "id": "wajib", "courseIds": [123, 256, 315, 403, 413, 86, 743] },
-            { "id": "bonus", "subHeader": "Kelas Bonus", "courseIds": [788, 418] }
+            {
+              "id": "wajib",
+              "courseIds": [
+                123,
+                256,
+                315,
+                403,
+                413,
+                86,
+                743
+              ]
+            },
+            {
+              "id": "bonus",
+              "subHeader": "Kelas Bonus",
+              "courseIds": [
+                788,
+                418
+              ]
+            }
           ]
         },
         {
           "id": "non-teknis",
           "headerLabel": "Materi Non-Teknis & Soft Skill",
           "groups": [
-            { "id": "soft", "courseIds": [9100, 9101, 9102, 9103, 9104] }
+            {
+              "id": "soft",
+              "courseIds": [
+                9100,
+                9101,
+                9102,
+                9103,
+                9104
+              ]
+            }
           ]
         }
       ]
     },
+    "capstone": [
+      "turahan",
+      "holohero"
+    ],
     "pricingPlans": {
       "options": [
         {
           "id": "sekali",
           "originalPrice": "Rp14.000.000",
-          "discountLabel": "Hemat 57%",
-          "finalPrice": "Rp6.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp5.600.000",
           "schedule": [
-            { "label": "Pendaftaran", "value": "18 Februari–31 Mei 2026", "iconKey": "calendar" },
-            { "label": "Pelaksanaan", "value": "Juni–Oktober 2026", "iconKey": "clock" }
+            {
+              "label": "Pendaftaran",
+              "value": "18 Februari–31 Mei 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Juni–Oktober 2026",
+              "iconKey": "clock"
+            }
           ],
-          "registerHref": "/anonymous-registration/1"
+          "registerHref": "/registration"
         },
         {
           "id": "cicilan",
           "originalPrice": "Rp14.000.000",
-          "discountLabel": "Hemat 64%",
-          "finalPrice": "Rp1.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp1.120.000",
           "schedule": [
-            { "label": "Pendaftaran", "value": "18 Februari–31 Mei 2026", "iconKey": "calendar" },
-            { "label": "Pelaksanaan", "value": "Juni–Oktober 2026", "iconKey": "clock" }
+            {
+              "label": "Pendaftaran",
+              "value": "18 Februari–31 Mei 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Juni–Oktober 2026",
+              "iconKey": "clock"
+            }
           ],
-          "registerHref": "/anonymous-registration/1"
+          "registerHref": "/registration"
         }
       ],
       "benefits": [
@@ -107,8 +235,1158 @@
       ]
     },
     "faqItems": [
-      { "id": "background", "question": "Apakah saya harus punya background IT?", "answer": "Tidak. Program ini dirancang untuk pemula tanpa pengalaman IT. Yang dibutuhkan adalah komitmen, kemauan belajar, dan waktu 5–6 jam per hari." },
-      { "id": "komitmen", "question": "Berapa komitmen waktu per hari?", "answer": "Sekitar 5–6 jam per hari selama 20 minggu, mencakup belajar mandiri, sesi live expert, mentoring, dan pengerjaan proyek." }
+      {
+        "id": "django-db",
+        "question": "Apakah program ini membahas database?",
+        "answer": "Tentu. Anda akan belajar merancang dan mengelola relational database menggunakan PostgreSQL serta integrasinya dengan Django ORM."
+      }
     ]
+  },
+  "6": {
+    "packageId": "6",
+    "hero": {
+      "batchLabel": "Batch 14 • Kelas dimulai 8 Juni 2026",
+      "title": "Kuasai Data Science dari Analisis hingga Machine Learning",
+      "description": "Pelajari cara mengolah data, membangun visualisasi, dan membuat model machine learning. Dalam 20 minggu, Anda akan punya portofolio data science yang siap ditunjukkan ke perusahaan.",
+      "audienceBadgeLabel": "Cocok untuk Pemula",
+      "details": [
+        {
+          "label": "Pelaksanaan",
+          "value": "Juni–Oktober 2026 • Online",
+          "iconKey": "calendar"
+        },
+        {
+          "label": "Siswa akan memperoleh",
+          "value": "Sertifikat Kelulusan",
+          "iconKey": "certificate"
+        }
+      ],
+      "registrationDeadlineNote": "Pendaftaran dibuka hingga 31 Mei 2026",
+      "originalPrice": "Rp14.000.000",
+      "discountLabel": "Disc 60%",
+      "finalPrice": "Rp5.600.000",
+      "registerHref": "/registration",
+      "consultationHref": "https://api.whatsapp.com/send/?phone=6281533330242&text=%22Halo,%20apakah%20saya%20bisa%20dapat%20info%20lebih%20lanjut%20tentang%20Dicoding%20Bootcamp?%22&type=phone_number&app_absent=0"
+    },
+    "suitableFor": {
+      "pillLabel": "Peserta",
+      "description": "Program ini dirancang untuk Anda yang ingin berkarier di dunia data. Tidak perlu latar belakang statistik, program dimulai dari fondasi.",
+      "prerequisite": {
+        "title": "Catatan prasyarat:",
+        "body": "Siap berkomitmen 5-6 jam/hari selama program."
+      },
+      "personas": [
+        {
+          "id": "fresh-grad",
+          "iconKey": "graduation-cap",
+          "title": "Mahasiswa & Fresh Graduate",
+          "description": "Ingin masuk industri yang permintaan talentanya terus naik, dengan skill yang tervalidasi."
+        },
+        {
+          "id": "switcher",
+          "iconKey": "briefcase",
+          "title": "Career Switcher",
+          "description": "Pekerja dari bidang apapun yang tertarik transisi ke data: analyst, scientist, atau engineer."
+        },
+        {
+          "id": "professional",
+          "iconKey": "data",
+          "title": "Profesional yang Ingin Data-Driven",
+          "description": "Sudah bekerja dan ingin menambah kemampuan analisis data dan machine learning untuk peran saat ini."
+        },
+        {
+          "id": "self-learner",
+          "iconKey": "book",
+          "title": "Self-learner yang Butuh Struktur",
+          "description": "Sudah coba belajar sendiri dari tutorial, tapi butuh jalur belajar yang jelas dan mentor."
+        }
+      ]
+    },
+    "outcome": {
+      "techStack": [
+        "Python",
+        "Pandas",
+        "Matplotlib",
+        "Scikit-learn",
+        "Google Sheets",
+        "Jupyter Notebook",
+        "Git"
+      ],
+      "outcomes": [
+        {
+          "id": "data-analysis",
+          "title": "Analisis data dengan Python",
+          "description": "Eksplorasi, pembersihan, dan transformasi data menggunakan library Python."
+        },
+        {
+          "id": "data-viz",
+          "title": "Visualisasi data yang efektif",
+          "description": "Membuat visualisasi yang menceritakan insight, bukan sekadar grafik."
+        },
+        {
+          "id": "ml-beginner",
+          "title": "Machine learning untuk pemula",
+          "description": "Klasifikasi, regresi, dan clustering menggunakan algoritma yang tepat."
+        },
+        {
+          "id": "data-fundamental",
+          "title": "Fundamental analisis data",
+          "description": "Dari data cleaning hingga dashboard analisis yang actionable."
+        },
+        {
+          "id": "math-data",
+          "title": "Matematika untuk data science",
+          "description": "Statistik, probabilitas, dan konsep matematika yang relevan untuk AI."
+        },
+        {
+          "id": "career",
+          "title": "Kesiapan karir & personal branding",
+          "description": "Interview prep, CV building, dan strategi pencarian kerja."
+        }
+      ]
+    },
+    "timeline": {
+      "title": "20 Minggu Pembelajaran Intensif dari Fondasi hingga Bangun Portofolio",
+      "items": [
+        {
+          "id": "w1-3",
+          "range": "Minggu 1–3",
+          "title": "Fondasi Data Science & Python",
+          "description": "Kenali dunia data science, tools yang digunakan, dan mulai pemrograman Python dari nol."
+        },
+        {
+          "id": "w4-7",
+          "range": "Minggu 4–7",
+          "title": "Visualisasi & Analisis Data",
+          "description": "Buat visualisasi data dengan Google Sheets dan Python. Pelajari prinsip desain visual yang efektif."
+        },
+        {
+          "id": "w8-13",
+          "range": "Minggu 8–13",
+          "title": "Machine Learning & Analisis Fundamental",
+          "description": "Bangun model klasifikasi, regresi, dan clustering. Dalami teknik feature engineering dan evaluasi model."
+        },
+        {
+          "id": "w14-16",
+          "range": "Minggu 14–16",
+          "title": "Matematika untuk Data Science",
+          "description": "Kuasai statistik inferensial, probabilitas, dan konsep matematika yang mendasari algoritma AI."
+        },
+        {
+          "id": "w17-20",
+          "range": "Minggu 17–20",
+          "title": "Capstone Project & Persiapan Karir",
+          "description": "Kerjakan proyek tim data science berbasis masalah nyata selama 90 jam. Didampingi advisor."
+        }
+      ]
+    },
+    "curriculum": {
+      "panels": [
+        {
+          "id": "teknis",
+          "headerLabel": "Materi Teknis",
+          "groups": [
+            {
+              "id": "wajib",
+              "courseIds": [
+                615,
+                86,
+                177,
+                184,
+                555,
+                831
+              ]
+            }
+          ]
+        },
+        {
+          "id": "non-teknis",
+          "headerLabel": "Materi Non-Teknis & Soft Skill",
+          "groups": [
+            {
+              "id": "soft",
+              "courseIds": [
+                9100,
+                9101,
+                9102,
+                9103,
+                9104
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "capstone": [
+      "abai",
+      "turahan"
+    ],
+    "pricingPlans": {
+      "options": [
+        {
+          "id": "sekali",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp5.600.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "18 Februari–31 Mei 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Juni–Oktober 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        },
+        {
+          "id": "cicilan",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp1.120.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "18 Februari–31 Mei 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Juni–Oktober 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        }
+      ],
+      "benefits": [
+        "317 jam materi teknis terstruktur",
+        "10+ sesi live expert",
+        "Mentoring 1-on-1",
+        "Capstone 90 jam",
+        "4 modul soft skill",
+        "Review kode oleh expert + AI",
+        "Sertifikat kelulusan",
+        "Akses ke hiring partners untuk memperoleh pekerjaan"
+      ]
+    },
+    "faqItems": [
+      {
+        "id": "ds-laptop",
+        "question": "Apakah saya butuh spesifikasi laptop yang tinggi untuk Data Science?",
+        "answer": "Spesifikasi standar (RAM 8 GB) sudah cukup. Anda akan banyak menggunakan platform berbasis cloud seperti Google Colab yang tidak membebani komputasi laptop Anda."
+      },
+      {
+        "id": "ds-math",
+        "question": "Apakah wajib memiliki latar belakang matematika atau statistik?",
+        "answer": "Tidak wajib. Kurikulum dirancang dari dasar, sehingga Anda akan belajar konsep statistik dan matematika praktis yang relevan seiring dengan materi Machine Learning."
+      }
+    ]
+  },
+  "7": {
+    "packageId": "7",
+    "hero": {
+      "batchLabel": "Batch 14 • Kelas dimulai 8 Juni 2026",
+      "title": "Bangun Aplikasi Android Modern dengan Kotlin & Jetpack Compose",
+      "description": "Kuasai pengembangan aplikasi Android dari dasar hingga modern UI dengan Jetpack Compose. Dalam 20 minggu, Anda akan punya aplikasi nyata di portofolio dan siap untuk berkarier sebagai Android Developer.",
+      "audienceBadgeLabel": "Cocok untuk Pemula",
+      "details": [
+        {
+          "label": "Pelaksanaan",
+          "value": "Juni–Oktober 2026 • Online",
+          "iconKey": "calendar"
+        },
+        {
+          "label": "Siswa akan memperoleh",
+          "value": "Sertifikat Kelulusan",
+          "iconKey": "certificate"
+        }
+      ],
+      "registrationDeadlineNote": "Pendaftaran dibuka hingga 31 Mei 2026",
+      "originalPrice": "Rp14.000.000",
+      "discountLabel": "Disc 60%",
+      "finalPrice": "Rp5.600.000",
+      "registerHref": "/registration",
+      "consultationHref": "https://api.whatsapp.com/send/?phone=6281533330242&text=%22Halo,%20apakah%20saya%20bisa%20dapat%20info%20lebih%20lanjut%20tentang%20Dicoding%20Bootcamp?%22&type=phone_number&app_absent=0"
+    },
+    "suitableFor": {
+      "pillLabel": "Peserta",
+      "description": "Program ini dirancang untuk Anda yang ingin jadi Android Developer. Tidak perlu pengalaman mobile development sebelumnya.",
+      "prerequisite": {
+        "title": "Catatan prasyarat:",
+        "body": "Siap berkomitmen 5-6 jam/hari. RAM minimal 8 GB (rekomendasi 16 GB) untuk menjalankan Android Studio."
+      },
+      "personas": [
+        {
+          "id": "fresh-grad",
+          "iconKey": "graduation-cap",
+          "title": "Mahasiswa & Fresh Graduate",
+          "description": "Ingin masuk industri mobile development yang permintaannya terus tumbuh di Indonesia."
+        },
+        {
+          "id": "switcher",
+          "iconKey": "briefcase",
+          "title": "Career Switcher",
+          "description": "Pekerja dari bidang apapun yang tertarik membangun aplikasi Android profesional."
+        },
+        {
+          "id": "web-dev",
+          "iconKey": "code",
+          "title": "Web Developer yang Ingin Ekspansi",
+          "description": "Sudah familiar dengan programming, ingin menambah skill mobile development."
+        },
+        {
+          "id": "tech-enthusiast",
+          "iconKey": "lightbulb",
+          "title": "Penggemar Teknologi",
+          "description": "Punya ide aplikasi tapi belum tahu cara membangunnya dari nol."
+        }
+      ]
+    },
+    "outcome": {
+      "techStack": [
+        "Kotlin",
+        "Android Studio",
+        "Jetpack Compose",
+        "Room",
+        "Retrofit",
+        "Git",
+        "Google APIs"
+      ],
+      "outcomes": [
+        {
+          "id": "kotlin-prog",
+          "title": "Pemrograman Kotlin",
+          "description": "Bahasa resmi Android: OOP, functional programming, coroutines."
+        },
+        {
+          "id": "android-fund",
+          "title": "Aplikasi Android fundamental",
+          "description": "Activity, Intent, RecyclerView, dan networking dengan API."
+        },
+        {
+          "id": "android-arch",
+          "title": "Android arsitektur modern",
+          "description": "MVVM, Room database, LiveData, dan dependency injection."
+        },
+        {
+          "id": "jetpack-compose",
+          "title": "UI modern dengan Jetpack Compose",
+          "description": "Declarative UI, state management, navigasi, dan animasi."
+        },
+        {
+          "id": "git",
+          "title": "Kolaborasi tim dengan Git & GitHub",
+          "description": "Version control dan workflow kolaborasi standar industri."
+        },
+        {
+          "id": "career",
+          "title": "Kesiapan karir & personal branding",
+          "description": "Interview prep, CV building, dan strategi pencarian kerja."
+        }
+      ]
+    },
+    "timeline": {
+      "title": "20 Minggu Pembelajaran Intensif dari Fondasi hingga Bangun Portofolio",
+      "items": [
+        {
+          "id": "w1-4",
+          "range": "Minggu 1–4",
+          "title": "Fondasi Kotlin",
+          "description": "Kuasai bahasa pemrograman Kotlin dari dasar: tipe data, OOP, functional programming, dan coroutines."
+        },
+        {
+          "id": "w5-8",
+          "range": "Minggu 5–8",
+          "title": "Android untuk Pemula",
+          "description": "Bangun aplikasi pertama: Activity, layout, RecyclerView, dan Intent."
+        },
+        {
+          "id": "w9-14",
+          "range": "Minggu 9–14",
+          "title": "Android Fundamental",
+          "description": "Dalami networking, local database, arsitektur MVVM, dan testing."
+        },
+        {
+          "id": "w15-16",
+          "range": "Minggu 15–16",
+          "title": "Jetpack Compose",
+          "description": "Bangun UI modern dengan declarative framework terbaru dari Google."
+        },
+        {
+          "id": "w17-20",
+          "range": "Minggu 17–20",
+          "title": "Capstone Project & Persiapan Karir",
+          "description": "Kerjakan proyek tim berbasis masalah nyata selama 90 jam. Didampingi advisor."
+        }
+      ]
+    },
+    "curriculum": {
+      "panels": [
+        {
+          "id": "teknis",
+          "headerLabel": "Materi Teknis",
+          "groups": [
+            {
+              "id": "wajib",
+              "courseIds": [
+                80,
+                51,
+                14,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "id": "non-teknis",
+          "headerLabel": "Materi Non-Teknis & Soft Skill",
+          "groups": [
+            {
+              "id": "soft",
+              "courseIds": [
+                9100,
+                9101,
+                9102,
+                9103,
+                9104
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "capstone": [
+      "falt",
+      "porter"
+    ],
+    "pricingPlans": {
+      "options": [
+        {
+          "id": "sekali",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp5.600.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "18 Februari–31 Mei 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Juni–Oktober 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        },
+        {
+          "id": "cicilan",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp1.120.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "18 Februari–31 Mei 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Juni–Oktober 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        }
+      ],
+      "benefits": [
+        "300 jam materi teknis terstruktur",
+        "8 sesi live expert",
+        "Mentoring 1-on-1",
+        "Capstone 90 jam",
+        "4 modul soft skill",
+        "Review kode oleh expert + AI",
+        "Sertifikat kelulusan",
+        "Akses ke hiring partners untuk memperoleh pekerjaan"
+      ]
+    },
+    "faqItems": [
+      {
+        "id": "android-mac",
+        "question": "Apakah saya butuh Mac untuk mengikuti program ini?",
+        "answer": "Tidak. Android Studio bisa dijalankan di Windows, macOS, atau Linux. Yang penting RAM minimal 8 GB (rekomendasi 16 GB) dan penyimpanan kosong 20-30 GB."
+      },
+      {
+        "id": "compose",
+        "question": "Apakah saya akan belajar Jetpack Compose?",
+        "answer": "Ya. Program ini mencakup Jetpack Compose: framework UI modern dari Google yang menjadi standar baru dalam Android development."
+      }
+    ]
+  },
+  "8": {
+    "packageId": "8",
+    "hero": {
+      "batchLabel": "Batch 15 • Kelas dimulai 10 Agustus 2026",
+      "title": "Bangun Aplikasi Web Full-Stack dengan React + Node.js",
+      "description": "Kuasai ekosistem JavaScript dari ujung ke ujung. Pelajari cara merancang UI interaktif dengan React dan membangun server tangguh menggunakan Node.js untuk menghasilkan portofolio web full-stack yang profesional.",
+      "audienceBadgeLabel": "Cocok untuk Pemula",
+      "details": [
+        {
+          "label": "Pelaksanaan",
+          "value": "Agustus–Desember 2026 • Online",
+          "iconKey": "calendar"
+        },
+        {
+          "label": "Siswa akan memperoleh",
+          "value": "Sertifikat Kelulusan",
+          "iconKey": "certificate"
+        }
+      ],
+      "registrationDeadlineNote": "Pendaftaran dibuka hingga 31 Juli 2026",
+      "originalPrice": "Rp14.000.000",
+      "discountLabel": "Disc 60%",
+      "finalPrice": "Rp5.600.000",
+      "registerHref": "/registration",
+      "consultationHref": "https://api.whatsapp.com/send/?phone=6281533330242&text=%22Halo,%20apakah%20saya%20bisa%20dapat%20info%20lebih%20lanjut%20tentang%20Dicoding%20Bootcamp?%22&type=phone_number&app_absent=0"
+    },
+    "suitableFor": {
+      "pillLabel": "Peserta",
+      "description": "Program ini dirancang untuk Anda yang ingin menguasai web development dengan JavaScript. Dari browser hingga server, dalam satu ekosistem.",
+      "prerequisite": {
+        "title": "Catatan prasyarat:",
+        "body": "Siap berkomitmen 5-6 jam/hari"
+      },
+      "personas": [
+        {
+          "id": "fresh-grad",
+          "iconKey": "graduation-cap",
+          "title": "Mahasiswa & Fresh Graduate",
+          "description": "Ingin masuk industri tech dengan skill JavaScript full-stack yang paling banyak dicari."
+        },
+        {
+          "id": "switcher",
+          "iconKey": "briefcase",
+          "title": "Career Switcher",
+          "description": "Pekerja non-IT yang ingin transisi ke web development dengan jalur yang efisien."
+        },
+        {
+          "id": "frontend-dev",
+          "iconKey": "code",
+          "title": "Front-end Developer",
+          "description": "Sudah menguasai HTML/CSS/JS, ingin menambah kemampuan back-end dengan Node.js."
+        },
+        {
+          "id": "fullstack-js",
+          "iconKey": "rocket",
+          "title": "Developer yang Ingin JavaScript Full-Stack",
+          "description": "Sudah memiliki pengetahuan programming, ingin fokus memperdalam ekosistem JavaScript (MERN/PERN stack) untuk menjadi Full-Stack Developer yang andal."
+        }
+      ]
+    },
+    "outcome": {
+      "techStack": [
+        "React",
+        "Node.js",
+        "JavaScript",
+        "Express.js",
+        "PostgreSQL",
+        "HTML/CSS",
+        "Git",
+        "Postman"
+      ],
+      "outcomes": [
+        {
+          "id": "react-frontend",
+          "title": "Front-end interaktif dengan React",
+          "description": "Component-based UI, state management, routing, dan hooks."
+        },
+        {
+          "id": "node-backend",
+          "title": "Back-end dengan Node.js & Express.js",
+          "description": "RESTful API, autentikasi, dan server-side logic menggunakan JavaScript."
+        },
+        {
+          "id": "backend-fund",
+          "title": "Fundamental back-end yang solid",
+          "description": "Database, caching, message broker, dan arsitektur clean."
+        },
+        {
+          "id": "git",
+          "title": "Kolaborasi tim dengan Git & GitHub",
+          "description": "Version control dan workflow kolaborasi standar industri."
+        },
+        {
+          "id": "problem-solving",
+          "title": "Problem solving & critical thinking",
+          "description": "Memecahkan masalah nyata, bukan sekadar mengikuti tutorial."
+        },
+        {
+          "id": "career",
+          "title": "Kesiapan karir & personal branding",
+          "description": "Interview prep, CV building, dan strategi pencarian kerja."
+        }
+      ]
+    },
+    "timeline": {
+      "title": "20 Minggu Pembelajaran Intensif dari Fondasi hingga Bangun Portofolio",
+      "items": [
+        {
+          "id": "w1-4",
+          "range": "Minggu 1–4",
+          "title": "Fondasi Web & JavaScript",
+          "description": "Pelajari dasar HTML, CSS, dan JavaScript. Bangun halaman web pertama."
+        },
+        {
+          "id": "w5-10",
+          "range": "Minggu 5–10",
+          "title": "React & Front-End Modern",
+          "description": "Bangun UI interaktif dengan React. Dari component sederhana hingga aplikasi lengkap."
+        },
+        {
+          "id": "w11-14",
+          "range": "Minggu 11–14",
+          "title": "Node.js Back-End Pemula",
+          "description": "Bangun RESTful API pertama dengan Node.js dan framework Express."
+        },
+        {
+          "id": "w15-16",
+          "range": "Minggu 15–16",
+          "title": "Back-End Fundamental",
+          "description": "Dalami database, autentikasi, caching, dan arsitektur back-end yang clean."
+        },
+        {
+          "id": "w17-20",
+          "range": "Minggu 17–20",
+          "title": "Capstone Project & Persiapan Karir",
+          "description": "Kerjakan proyek tim full-stack berbasis masalah nyata selama 90 jam."
+        }
+      ]
+    },
+    "curriculum": {
+      "panels": [
+        {
+          "id": "teknis",
+          "headerLabel": "Materi Teknis",
+          "groups": [
+            {
+              "id": "wajib",
+              "courseIds": [
+                123,
+                256,
+                315,
+                403,
+                413,
+                261,
+                271
+              ]
+            }
+          ]
+        },
+        {
+          "id": "non-teknis",
+          "headerLabel": "Materi Non-Teknis & Soft Skill",
+          "groups": [
+            {
+              "id": "soft",
+              "courseIds": [
+                9100,
+                9101,
+                9102,
+                9103,
+                9104
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "capstone": [
+      "mamen",
+      "turahan"
+    ],
+    "pricingPlans": {
+      "options": [
+        {
+          "id": "sekali",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp5.600.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "Hingga 31 Juli 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Agustus–Desember 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        },
+        {
+          "id": "cicilan",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp1.120.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "Hingga 31 Juli 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Agustus–Desember 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        }
+      ],
+      "benefits": [
+        "366 jam materi teknis terstruktur",
+        "10+ sesi live expert",
+        "Mentoring 1-on-1",
+        "Capstone 90 jam",
+        "4 modul soft skill",
+        "Review kode oleh expert + AI",
+        "Sertifikat kelulusan",
+        "Akses ke hiring partners untuk memperoleh pekerjaan"
+      ]
+    },
+    "faqItems": [
+      {
+        "id": "react-node-diff",
+        "question": "Apa perbedaan React + Node.js dengan React + Django?",
+        "answer": "Pada paket ini, Anda menggunakan satu bahasa (JavaScript/TypeScript) untuk seluruh tumpukan aplikasi (Front-End & Back-End), yang sangat populer di ekosistem MERN/PERN."
+      },
+      {
+        "id": "react-node-deploy",
+        "question": "Apakah program ini akan membahas deployment aplikasi?",
+        "answer": "Ya. Anda akan belajar cara mendeploy aplikasi web full-stack Anda ke cloud provider agar portofolio Anda dapat diakses secara publik."
+      }
+    ]
+  },
+  "9": {
+    "packageId": "9",
+    "hero": {
+      "batchLabel": "Batch 15 • Kelas dimulai 10 Agustus 2026",
+      "title": "Kuasai Pengembangan Generative AI dari Dasar hingga Implementasi LLM",
+      "description": "Pelajari cara membangun solusi cerdas dengan teknologi Generative AI terkini. Mulai dari dasar Machine Learning, Deep Learning, hingga pengembangan aplikasi berbasis Large Language Models (LLM).",
+      "audienceBadgeLabel": "Cocok untuk Pemula",
+      "details": [
+        {
+          "label": "Pelaksanaan",
+          "value": "Agustus–Desember 2026 • Online",
+          "iconKey": "calendar"
+        },
+        {
+          "label": "Siswa akan memperoleh",
+          "value": "Sertifikat Kelulusan",
+          "iconKey": "certificate"
+        }
+      ],
+      "registrationDeadlineNote": "Pendaftaran dibuka hingga 31 Juli 2026",
+      "originalPrice": "Rp14.000.000",
+      "discountLabel": "Disc 60%",
+      "finalPrice": "Rp5.600.000",
+      "registerHref": "/registration",
+      "consultationHref": "https://api.whatsapp.com/send/?phone=6281533330242&text=%22Halo,%20apakah%20saya%20bisa%20dapat%20info%20lebih%20lanjut%20tentang%20Dicoding%20Bootcamp?%22&type=phone_number&app_absent=0"
+    },
+    "suitableFor": {
+      "pillLabel": "Peserta",
+      "description": "Program ini dirancang untuk Anda yang ingin menjadi AI Engineer atau spesialis Generative AI. Cocok bagi developer yang ingin membangun aplikasi cerdas masa depan.",
+      "prerequisite": {
+        "title": "Catatan prasyarat:",
+        "body": "Siap berkomitmen 5-6 jam/hari"
+      },
+      "personas": [
+        {
+          "id": "fresh-grad",
+          "iconKey": "graduation-cap",
+          "title": "Mahasiswa & Fresh Graduate",
+          "description": "Ingin memulai karier di bidang AI yang sedang berkembang pesat dengan portofolio Generative AI yang solid."
+        },
+        {
+          "id": "switcher",
+          "iconKey": "briefcase",
+          "title": "Career Switcher",
+          "description": "Profesional IT atau Data yang ingin beralih ke spesialisasi AI dan Large Language Models."
+        },
+        {
+          "id": "software-dev",
+          "iconKey": "code",
+          "title": "Software Engineer",
+          "description": "Sudah menguasai pemrograman dan ingin mengintegrasikan kemampuan Generative AI ke dalam aplikasi yang dibangun."
+        },
+        {
+          "id": "ai-enthusiast",
+          "iconKey": "rocket",
+          "title": "AI Enthusiast",
+          "description": "Memiliki minat tinggi pada teknologi AI terbaru dan ingin belajar membangun model bahasa dan sistem AI cerdas."
+        }
+      ]
+    },
+    "outcome": {
+      "techStack": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "LLMs",
+        "Git",
+        "Jupyter"
+      ],
+      "outcomes": [
+        {
+          "id": "python-ai",
+          "title": "Pemrograman Python untuk AI",
+          "description": "Dasar pemrograman, manipulasi data, dan library fundamental untuk pengembangan AI."
+        },
+        {
+          "id": "ml-fund",
+          "title": "Dasar Machine Learning",
+          "description": "Pemahaman algoritma supervised dan unsupervised learning untuk memecahkan masalah."
+        },
+        {
+          "id": "dl-fund",
+          "title": "Fundamental Deep Learning",
+          "description": "Arsitektur Neural Networks, pelatihan model, dan implementasi deep learning."
+        },
+        {
+          "id": "gen-ai",
+          "title": "Implementasi Generative AI",
+          "description": "Penggunaan model generatif terkini dan teknik prompt engineering yang efektif."
+        },
+        {
+          "id": "llm-dev",
+          "title": "Pengembangan berbasis LLM",
+          "description": "Membangun aplikasi cerdas dengan Large Language Models."
+        },
+        {
+          "id": "career",
+          "title": "Kesiapan karir & personal branding",
+          "description": "Interview prep, CV building, dan strategi pencarian kerja."
+        }
+      ]
+    },
+    "timeline": {
+      "title": "20 Minggu Pembelajaran Intensif dari Fondasi hingga Bangun Portofolio",
+      "items": [
+        {
+          "id": "w1-4",
+          "range": "Minggu 1–4",
+          "title": "Pemrograman Python & Dasar AI",
+          "description": "Pelajari sintaks dasar Python, manipulasi data, dan konsep dasar kecerdasan buatan."
+        },
+        {
+          "id": "w5-10",
+          "range": "Minggu 5–10",
+          "title": "Machine Learning & Deep Learning",
+          "description": "Dalami algoritma machine learning, neural networks, dan pelatihan model."
+        },
+        {
+          "id": "w11-14",
+          "range": "Minggu 11–14",
+          "title": "Fundamental Generative AI",
+          "description": "Pahami cara kerja model generatif dan aplikasinya dalam berbagai skenario."
+        },
+        {
+          "id": "w15-16",
+          "range": "Minggu 15–16",
+          "title": "Pengembangan LLM & Prompt Engineering",
+          "description": "Terapkan prompt engineering dan bangun aplikasi yang ditenagai oleh LLM."
+        },
+        {
+          "id": "w17-20",
+          "range": "Minggu 17–20",
+          "title": "Capstone Project & Persiapan Karir",
+          "description": "Kerjakan proyek tim berbasis masalah nyata selama 90 jam. Didampingi advisor."
+        }
+      ]
+    },
+    "curriculum": {
+      "panels": [
+        {
+          "id": "teknis",
+          "headerLabel": "Materi Teknis",
+          "groups": [
+            {
+              "id": "wajib",
+              "courseIds": [
+                653,
+                753,
+                86,
+                184,
+                185
+              ]
+            },
+            {
+              "id": "bonus",
+              "subHeader": "Kelas Bonus",
+              "courseIds": [
+                896,
+                950
+              ]
+            }
+          ]
+        },
+        {
+          "id": "non-teknis",
+          "headerLabel": "Materi Non-Teknis & Soft Skill",
+          "groups": [
+            {
+              "id": "soft",
+              "courseIds": [
+                9100,
+                9101,
+                9102,
+                9103,
+                9104
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "pricingPlans": {
+      "options": [
+        {
+          "id": "sekali",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp5.600.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "Hingga 31 Juli 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Agustus–Desember 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        },
+        {
+          "id": "cicilan",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp1.120.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "Hingga 31 Juli 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Agustus–Desember 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        }
+      ],
+      "benefits": [
+        "321 jam materi teknis terstruktur",
+        "10+ sesi live expert",
+        "Mentoring 1-on-1",
+        "Capstone 90 jam",
+        "4 modul soft skill",
+        "Review kode oleh expert + AI",
+        "Sertifikat kelulusan",
+        "Akses ke hiring partners untuk memperoleh pekerjaan"
+      ]
+    },
+    "faqItems": [
+      {
+        "id": "genai-dl",
+        "question": "Apakah saya harus paham Deep Learning sebelum masuk ke LLM?",
+        "answer": "Program ini sudah mencakup materi fundamental Deep Learning, sehingga Anda akan dibimbing dari dasar hingga mampu mengembangkan aplikasi berbasis Large Language Models."
+      },
+      {
+        "id": "genai-gpu",
+        "question": "Apakah pelatihan ini membutuhkan resource GPU khusus?",
+        "answer": "Pembelajaran menggunakan cloud computing (seperti Google Colab) yang menyediakan akses GPU. Anda tidak perlu membeli hardware khusus."
+      }
+    ]
+  },
+  "10": {
+    "packageId": "10",
+    "hero": {
+      "batchLabel": "Batch 15 • Kelas dimulai 10 Agustus 2026",
+      "title": "Amankan Dunia Digital: Bootcamp Cyber Security",
+      "description": "Pelajari cara melindungi sistem dari ancaman siber, mulai dari identifikasi kerentanan hingga strategi pertahanan (defense) dan penyerangan (offense) etis. Siapkan dirimu menjadi spesialis keamanan siber yang andal.",
+      "audienceBadgeLabel": "Cocok untuk Pemula",
+      "details": [
+        {
+          "label": "Pelaksanaan",
+          "value": "Agustus–Desember 2026 • Online",
+          "iconKey": "calendar"
+        },
+        {
+          "label": "Siswa akan memperoleh",
+          "value": "Sertifikat Kelulusan",
+          "iconKey": "certificate"
+        }
+      ],
+      "registrationDeadlineNote": "Pendaftaran dibuka hingga 31 Juli 2026",
+      "originalPrice": "Rp14.000.000",
+      "discountLabel": "Disc 60%",
+      "finalPrice": "Rp5.600.000",
+      "registerHref": "/registration",
+      "consultationHref": "https://api.whatsapp.com/send/?phone=6281533330242&text=%22Halo,%20apakah%20saya%20bisa%20dapat%20info%20lebih%20lanjut%20tentang%20Dicoding%20Bootcamp?%22&type=phone_number&app_absent=0"
+    },
+    "suitableFor": {
+      "pillLabel": "Peserta",
+      "description": "Program ini dirancang untuk Anda yang ingin menjadi spesialis Cyber Security. Cocok bagi pemula maupun praktisi IT yang ingin mendalami keamanan informasi.",
+      "prerequisite": {
+        "title": "Catatan prasyarat:",
+        "body": "Siap berkomitmen 5-6 jam/hari"
+      },
+      "personas": [
+        {
+          "id": "fresh-grad",
+          "iconKey": "graduation-cap",
+          "title": "Mahasiswa & Fresh Graduate",
+          "description": "Tertarik memulai karier di bidang IT security dengan keterampilan praktis untuk menangkal ancaman siber."
+        },
+        {
+          "id": "it-support",
+          "iconKey": "briefcase",
+          "title": "IT Support / SysAdmin",
+          "description": "Ingin memperdalam pengetahuan keamanan jaringan dan sistem untuk naik level menjadi Security Engineer."
+        },
+        {
+          "id": "software-dev",
+          "iconKey": "code",
+          "title": "Software Engineer",
+          "description": "Ingin memastikan aplikasi yang dibangun aman dari kerentanan dan memenuhi standar keamanan."
+        },
+        {
+          "id": "switcher",
+          "iconKey": "rocket",
+          "title": "Career Switcher",
+          "description": "Individu dengan logika analisis kuat yang tertarik beralih ke bidang Cyber Security yang penuh tantangan."
+        }
+      ]
+    },
+    "outcome": {
+      "techStack": [
+        "Coming Soon"
+      ],
+      "outcomes": [
+        {
+          "id": "coming-soon",
+          "title": "Detail Outcome Akan Segera Hadir",
+          "description": "Kami sedang menyusun rincian kompetensi yang akan Anda dapatkan dari program ini. Nantikan pembaruannya!"
+        }
+      ]
+    },
+    "timeline": {
+      "title": "Materi dan Jadwal Sedang Dalam Penyusunan",
+      "items": [
+        {
+          "id": "coming-soon",
+          "range": "Segera Hadir",
+          "title": "Silabus Pembelajaran (Coming Soon)",
+          "description": "Rincian jadwal dan kurikulum materi pembelajaran sedang dipersiapkan dan akan diumumkan dalam waktu dekat."
+        }
+      ]
+    },
+    "curriculum": {
+      "panels": [
+        {
+          "id": "teknis",
+          "headerLabel": "Materi Teknis",
+          "groups": [
+            {
+              "id": "wajib",
+              "courseIds": [
+                9900
+              ]
+            }
+          ]
+        },
+        {
+          "id": "non-teknis",
+          "headerLabel": "Materi Non-Teknis & Soft Skill",
+          "groups": [
+            {
+              "id": "soft",
+              "courseIds": [
+                9100,
+                9101,
+                9102,
+                9103,
+                9104
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "pricingPlans": {
+      "options": [
+        {
+          "id": "sekali",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp5.600.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "Hingga 31 Juli 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Agustus–Desember 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        },
+        {
+          "id": "cicilan",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat 60%",
+          "finalPrice": "Rp1.120.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "Hingga 31 Juli 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "Agustus–Desember 2026",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "/registration"
+        }
+      ],
+      "benefits": [
+        "Materi teknis komprehensif (Coming Soon)",
+        "10+ sesi live expert",
+        "Mentoring 1-on-1",
+        "Capstone 90 jam",
+        "4 modul soft skill",
+        "Review kode oleh expert + AI",
+        "Sertifikat kelulusan",
+        "Akses ke hiring partners untuk memperoleh pekerjaan"
+      ]
+    }
   }
 }

@@ -1,20 +1,56 @@
 {
   "turahan": {
     "id": "turahan",
-    "thumbnailSrc": "/images/paket-pelatihan/capstone/turahan.svg",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/turahan.avif",
     "thumbnailWidth": 600,
     "thumbnailHeight": 400,
     "batchPill": "Batch 1 • Front-End & Back-End",
     "title": "Turahan",
     "description": "Platform pengelolaan makanan sisa layak makan untuk mengurangi food waste. Menghubungkan donatur makanan dengan penerima manfaat."
   },
+  "porter": {
+    "id": "porter",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/porter.avif",
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 400,
+    "batchPill": "Batch 1 • Android Developer",
+    "title": "Aplikasi Pemesanan Porter Pegunungan",
+    "description": "Aplikasi mobile untuk memudahkan pendaki memesan jasa porter di berbagai gunung di Indonesia secara cepat dan aman."
+  },
   "holohero": {
     "id": "holohero",
-    "thumbnailSrc": "/images/paket-pelatihan/capstone/holohero.svg",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/holohero.avif",
     "thumbnailWidth": 600,
     "thumbnailHeight": 400,
     "batchPill": "Batch 2 • React & Back-End",
-    "title": "Holohero",
+    "title": "Web Manajemen Kos Holohero",
     "description": "Aplikasi web manajemen kos-kosan lengkap dengan fitur pencarian, booking, dan dashboard pengelola."
+  },
+  "mamen": {
+    "id": "mamen",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/mamen.avif",
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 400,
+    "batchPill": "Batch 3 • Front-end & Back-End Developer",
+    "title": "MAMEN (Manado Micro Enterprise Website)",
+    "description": "Platform website yang didedikasikan untuk membantu UMKM lokal di Manado memperluas jangkauan pasar dan meningkatkan penjualan secara online."
+  },
+  "abai": {
+    "id": "abai",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/abai.png",
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 400,
+    "batchPill": "Batch 10 • Artificial Intelligent",
+    "title": "Arah Belajar AI",
+    "description": "Sistem rekomendasi berbasis AI yang membantu pengguna menemukan jalur pembelajaran dan karir yang sesuai dengan minat mereka."
+  },
+  "falt": {
+    "id": "falt",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/falt.png",
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 400,
+    "batchPill": "Batch 10 • Artificial Intelligent",
+    "title": "Food AI-based Tracker",
+    "description": "Aplikasi cerdas yang memanfaatkan AI untuk menganalisis dan melacak asupan nutrisi harian berdasarkan foto makanan."
   }
 }

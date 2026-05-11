@@ -1,38 +1,74 @@
 {
   "yuyu": {
     "id": "yuyu",
-    "photoSrc": "/images/paket-pelatihan/testimonials/yuyu.svg",
+    "photoSrc": "/images/paket-pelatihan/testimonials/yuyu.avif",
     "photoWidth": 600,
     "photoHeight": 600,
     "alumniBadgeLabel": "Lulusan Dicoding Bootcamp Batch 6",
-    "quote": "Struktur pembelajaran Dicoding terorganisir dengan sangat baik. Saya mendapatkan materi pemrograman yang lebih runut dan jelas. Dari situ saya berhasil menjadi lulusan terbaik bootcamp.",
+    "quote": "Lingkungan Belajar yang Suportif, Dapat Dukung Siapa Saja, Termasuk Orang dengan Disabilitas seperti Saya, untuk Bertumbuh.",
     "ctaLabel": "Tonton cerita",
-    "ctaHref": "https://www.youtube.com/@dicoding",
+    "ctaHref": "https://www.youtube.com/watch?v=mi8GYoEznII",
     "name": "Yuyu Aliwahyudin",
     "role": "Web Developer - Samudra Aplikasi Indonesia"
   },
   "oka": {
     "id": "oka",
-    "photoSrc": "/images/paket-pelatihan/testimonials/oka.svg",
+    "photoSrc": "/images/paket-pelatihan/testimonials/oka.avif",
     "photoWidth": 200,
     "photoHeight": 200,
     "alumniBadgeLabel": null,
-    "quote": "Dicoding Bootcamp tak hanya menawarkan pengetahuan technical, tetapi juga memberikan kelas soft skills yang bisa menunjang karier saya.",
+    "quote": "Dicoding Bootcamp tak hanya menawarkan pengetahuan technical, tetapi juga memberikan kelas soft skills yang bisa menunjang karier saya ke depannya.",
     "ctaLabel": "Baca selengkapnya",
-    "ctaHref": "https://blog.dicoding.com",
+    "ctaHref": "https://www.dicoding.com/blog/dulu-asn-dan-kini-software-engineer-di-perusahaan-australia-oka-ingin-terus-bertumbuh",
     "name": "Oka Widhyarta",
     "role": "Software Engineer - Insight Timer (Australia)"
   },
-  "ahmad": {
-    "id": "ahmad",
+  "dhimas": {
+    "id": "dhimas",
     "photoSrc": "/images/paket-pelatihan/testimonials/ahmad.svg",
     "photoWidth": 200,
     "photoHeight": 200,
     "alumniBadgeLabel": null,
-    "quote": "Saya berlatar belakang non-IT, tapi Dicoding memberikan lingkungan belajar yang suportif sehingga memudahkan saya memahami materi.",
+    "quote": "Struktur pembelajaran Dicoding terorganisir dengan sangat baik. Di sini, saya mendapatkan materi pemrograman yang lebih runut dan jelas.",
     "ctaLabel": "Baca selengkapnya",
-    "ctaHref": "https://blog.dicoding.com",
-    "name": "Ahmad Fauzi",
+    "ctaHref": "https://www.dicoding.com/blog/lulusan-sma-yang-berhasil-jadi-talenta-digital-unggulan/",
+    "name": "Dhimas Sahid",
+    "role": "IT Support - Klinik Izzatul Cimahi"
+  },
+  "mildan": {
+    "id": "mildan",
+    "photoSrc": "/images/paket-pelatihan/testimonials/mildan.png",
+    "photoWidth": 200,
+    "photoHeight": 200,
+    "alumniBadgeLabel": null,
+    "quote": "Saya merasa beruntung sekali, Dicoding memberikan lingkungan belajar yang suportif serta pembelajaran komprehensif sehingga memudahkan saya yang berlatar belakang non-IT untuk memahami materi dan berhasil menjadi lulusan terbaik bootcamp.",
+    "ctaLabel": "Baca selengkapnya",
+    "ctaHref": "https://www.dicoding.com/blog/ciptakan-lapangan-kerja-sendiri-pasca-dicoding-bootcamp/",
+    "name": "Mildan Falah",
     "role": "Co-Founder - Heptalution"
+  },
+  "acarya": {
+    "id": "acarya",
+    "photoSrc": "/images/paket-pelatihan/testimonials/acarya.avif",
+    "photoWidth": 200,
+    "photoHeight": 200,
+    "alumniBadgeLabel": null,
+    "quote": "Dicoding menawarkan biaya pelatihan yang terjangkau untuk pengalaman belajar pemrograman yang mendalam. Pengetahuan dari program ini memperkuat ilmu fundamental saya.",
+    "ctaLabel": "Baca selengkapnya",
+    "ctaHref": "https://www.dicoding.com/blog/merajut-asa-untuk-menjadi-developer-andal-lewat-dicoding-bootcamp",
+    "name": "Made Acarya",
+    "role": "Engineer On Site - PT Integrasi Data Nusantara"
+  },
+  "fuad": {
+    "id": "fuad",
+    "photoSrc": "/images/paket-pelatihan/testimonials/fuad.avif",
+    "photoWidth": 200,
+    "photoHeight": 200,
+    "alumniBadgeLabel": null,
+    "quote": "Kenal Dicoding sejak 2016, saya antusias ketika pendaftaran Dicoding Bootcamp dibuka. Materinya lengkap dan mudah dipahami, cocok untuk yang mau belajar coding dari awal.",
+    "ctaLabel": "Baca selengkapnya",
+    "ctaHref": "https://www.dicoding.com/blog/sukses-transformasi-karier-dengan-dedikasi",
+    "name": "Fuad Syafa’at",
+    "role": "Senior Mobile Developer - PT Manggala Teknologi"
   }
 }
