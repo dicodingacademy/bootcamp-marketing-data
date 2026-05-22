@@ -1,13 +1,11 @@
 {
   "announcementBar": {
-    "endsAt": "2026-05-20T23:59:59+07:00",
-    "prefix": "🎁 Spesial Bundling Merchandise! Dapat ",
+    "endsAt": "2026-05-31T23:59:59+07:00",
+    "prefix": "📢 Last Call untuk Batch 14! ",
     "highlights": [
-      "Diskon 60%",
-      "Hoodie",
-      "Tumbler Dicoding"
+      "Diskon hingga 57%"
     ],
-    "suffix": "untuk pendaftaran hingga"
+    "suffix": "hanya berlaku sampai"
   },
   "stats": [
     {
