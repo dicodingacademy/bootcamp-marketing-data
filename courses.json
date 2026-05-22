@@ -541,38 +541,44 @@
   },
   "9100": {
     "id": 9100,
-    "title": "Soft Skills (4 modul + tugas)",
+    "title": "Pembelajaran Soft Skills",
     "hours": "20 jam",
-    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+    "summary": "Peserta akan menerima materi softskill dari mentor untuk menunjang kemampuan non-teknis peserta."
   },
   "9101": {
     "id": 9101,
     "title": "Persiapan Karir",
     "hours": "2 jam",
-    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+    "summary": "Peserta mampu mengoptimalkan perencanaan karier melalui pemetaan karier, strategi pencarian kerja, dan persiapan melamar kerja."
   },
   "9102": {
     "id": 9102,
-    "title": "Sesi Review Expert (10 sesi)",
+    "title": "Sesi Review Expert",
     "hours": "20 jam",
-    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+    "summary": "Peserta akan mereview materi yang telah dipelajari dan dapat menanyakan hal-hal yang ingin diketahui kepada expert."
   },
   "9103": {
     "id": 9103,
     "title": "Monitoring & Progress Report",
-    "hours": "33 jam",
-    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+    "hours": "31 jam",
+    "summary": "Peserta akan melaporkan progress pembelajaran serta mendapatkan masukan dari pembimbing, tatap muka berkala, dan mentoring."
   },
   "9104": {
     "id": 9104,
-    "title": "Capstone Project",
+    "title": "Capstone Project / Proyek Akhir",
     "hours": "90 jam",
-    "summary": "Tingkatkan kualitas pengembangan software dengan metode Spec-Driven Development menggunakan Kiro Agentic IDE yang cerdas."
+    "summary": "Peserta akan mengerjakan proyek tematik dunia nyata untuk memvalidasi skill pengembangan produk dan menambah portofolio."
+  },
+  "950": {
+    "id": 950,
+    "title": "Pengembangan Generative AI berbasis LLM",
+    "hours": "50 jam",
+    "summary": "Mempelajari cara membangun, mengoptimalkan, dan mengintegrasikan aplikasi menggunakan Large Language Models (LLM) di lingkungan produksi."
   },
   "9900": {
     "id": 9900,
-    "title": "Coming Soon",
-    "hours": "-",
-    "summary": "Kami sedang menyusun rincian kompetensi yang akan Anda dapatkan dari program ini. Nantikan pembaruannya!"
+    "title": "Materi Teknis (Coming Soon)",
+    "hours": "TBD",
+    "summary": "Detail materi teknis untuk Cyber Security sedang dalam tahap penyusunan dan akan segera diumumkan."
   }
 }
