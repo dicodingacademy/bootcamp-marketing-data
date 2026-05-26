@@ -488,6 +488,7 @@
   },
   "7": {
     "packageId": "7",
+    "isClosed": true,
     "hero": {
       "batchLabel": "Batch 14 • Kelas dimulai 8 Juni 2026",
       "title": "Bangun Aplikasi Android Modern dengan Kotlin & Jetpack Compose",
