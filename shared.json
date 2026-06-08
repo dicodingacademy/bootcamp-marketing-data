@@ -1,11 +1,12 @@
 {
   "announcementBar": {
-    "endsAt": "2026-06-15T23:59:59+07:00",
-    "prefix": "🎁 Bonus Langganan + ",
+    "endsAt": "2026-06-13T23:59:59+07:00",
+    "prefix": "💸 Spesial 6.6 Deals! ",
     "highlights": [
-      "Diskon 57%"
+      "Diskon 60%",
+      "Bonus Tumbler Corkcicle "
     ],
-    "suffix": "untuk pendaftaran hingga"
+    "suffix": "hingga"
   },
   "stats": [
     {
