@@ -1,12 +1,11 @@
 {
   "announcementBar": {
-    "endsAt": "2026-06-13T23:59:59+07:00",
-    "prefix": "💸 Spesial 6.6 Deals! ",
+    "endsAt": "2026-06-30T23:59:59+07:00",
+    "prefix": "💸 Hemat ",
     "highlights": [
-      "Diskon 60%",
-      "Bonus Tumbler Corkcicle "
+      "Rp 8.000.000"
     ],
-    "suffix": "hingga"
+    "suffix": "untuk pendaftaran hingga"
   },
   "stats": [
     {
