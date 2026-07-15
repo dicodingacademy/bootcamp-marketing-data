@@ -1343,7 +1343,13 @@
           "originalPrice": "Rp14.000.000",
           "discountLabel": "Hemat Rp8.000.000",
           "finalPrice": "Rp6.000.000",
-          "schedule": [],
+          "schedule": [
+            {
+              "label": "Pelaksanaan",
+              "value": "TBD",
+              "iconKey": "clock"
+            }
+          ],
           "registerHref": "https://tally.so/r/OD074p"
         },
         {
@@ -1351,7 +1357,13 @@
           "originalPrice": "Rp14.000.000",
           "discountLabel": "Hemat Rp8.000.000",
           "finalPrice": "Rp1.200.000",
-          "schedule": [],
+          "schedule": [
+            {
+              "label": "Pelaksanaan",
+              "value": "TBD",
+              "iconKey": "clock"
+            }
+          ],
           "registerHref": "https://tally.so/r/OD074p"
         }
       ],
