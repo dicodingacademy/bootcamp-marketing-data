@@ -1225,14 +1225,14 @@
   "10": {
     "packageId": "10",
     "hero": {
-      "batchLabel": "Batch 15 • Kelas dimulai 10 Agustus 2026",
+      "batchLabel": "Coming soon",
       "title": "Amankan Dunia Digital: Bootcamp Cyber Security",
       "description": "Pelajari cara melindungi sistem dari ancaman siber, mulai dari identifikasi kerentanan hingga strategi pertahanan (defense) dan penyerangan (offense) etis. Siapkan dirimu menjadi spesialis keamanan siber yang andal.",
       "audienceBadgeLabel": "Cocok untuk Pemula",
       "details": [
         {
           "label": "Pelaksanaan",
-          "value": "Agustus–Desember 2026 • Online",
+          "value": "TBD • Online",
           "iconKey": "calendar"
         },
         {
@@ -1241,10 +1241,9 @@
           "iconKey": "certificate"
         }
       ],
-      "registrationDeadlineNote": "Pendaftaran dibuka hingga 31 Juli 2026",
       "originalPrice": "Rp14.000.000",
-      "discountLabel": "Disc 60%",
-      "finalPrice": "Rp5.600.000",
+      "discountLabel": "Disc 57%",
+      "finalPrice": "Rp6.000.000",
       "registerHref": "https://tally.so/r/OD074p",
       "consultationHref": "https://api.whatsapp.com/send/?phone=6281533330242&text=%22Halo,%20apakah%20saya%20bisa%20dapat%20info%20lebih%20lanjut%20tentang%20Dicoding%20Bootcamp?%22&type=phone_number&app_absent=0"
     },
@@ -1342,39 +1341,17 @@
         {
           "id": "sekali",
           "originalPrice": "Rp14.000.000",
-          "discountLabel": "Hemat Rp8.400.000",
-          "finalPrice": "Rp5.600.000",
-          "schedule": [
-            {
-              "label": "Pendaftaran",
-              "value": "Hingga 31 Juli 2026",
-              "iconKey": "calendar"
-            },
-            {
-              "label": "Pelaksanaan",
-              "value": "Agustus–Desember 2026",
-              "iconKey": "clock"
-            }
-          ],
+          "discountLabel": "Hemat Rp8.000.000",
+          "finalPrice": "Rp6.000.000",
+          "schedule": [],
           "registerHref": "https://tally.so/r/OD074p"
         },
         {
           "id": "cicilan",
           "originalPrice": "Rp14.000.000",
-          "discountLabel": "Hemat Rp8.400.000",
-          "finalPrice": "Rp1.120.000",
-          "schedule": [
-            {
-              "label": "Pendaftaran",
-              "value": "Hingga 31 Juli 2026",
-              "iconKey": "calendar"
-            },
-            {
-              "label": "Pelaksanaan",
-              "value": "Agustus–Desember 2026",
-              "iconKey": "clock"
-            }
-          ],
+          "discountLabel": "Hemat Rp8.000.000",
+          "finalPrice": "Rp1.200.000",
+          "schedule": [],
           "registerHref": "https://tally.so/r/OD074p"
         }
       ],
