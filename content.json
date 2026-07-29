@@ -1461,7 +1461,14 @@
         "Sertifikat kelulusan",
         "Akses ke hiring partners untuk memperoleh pekerjaan"
       ]
-    }
+    },
+    "faqItems": [
+      {
+        "id": "faq-analytics-vs-science",
+        "question": "Apa perbedaan Data Analytics dan Data Science?",
+        "answer": "Data Analytics lebih berfokus pada proses mengolah data untuk menemukan pola, menjawab pertanyaan, dan menghasilkan insight yang dapat mendukung keputusan. Data Science dapat mencakup ruang lingkup yang lebih luas, termasuk pengembangan model prediktif dan machine learning."
+      }
+    ]
   },
   "11": {
     "packageId": "11",
