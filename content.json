@@ -1312,7 +1312,7 @@
         {
           "id": "eda",
           "title": "Exploratory Data Analysis",
-          "description": "Menemukan pola, tren, hubungan antar variabel, dan anomali yang relevan dari sebuah dataset."
+          "description": "Menemukan pola, tren, hubungan antarvariabel, dan anomali yang relevan dari sebuah dataset."
         },
         {
           "id": "dasar-ml",
