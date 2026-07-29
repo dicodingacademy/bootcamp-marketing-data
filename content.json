@@ -1225,6 +1225,275 @@
   "10": {
     "packageId": "10",
     "hero": {
+      "batchLabel": "Batch 16 · Kelas dimulai 8 September 2026",
+      "title": "Kuasai Data Analytics untuk Mengubah Data Menjadi Insight yang Bernilai",
+      "description": "Kuasai keterampilan Data Analytics dari dasar, mulai dari mengolah data, menulis query SQL, membuat visualisasi, hingga membangun proyek analisis data yang dapat ditampilkan sebagai portofolio.",
+      "audienceBadgeLabel": "Cocok untuk Pemula",
+      "details": [
+        {
+          "label": "Pelaksanaan",
+          "value": "8 September 2026 - 20 Januari 2027 · Online",
+          "iconKey": "calendar"
+        },
+        {
+          "label": "Siswa akan memperoleh",
+          "value": "Sertifikat Kelulusan",
+          "iconKey": "certificate"
+        }
+      ],
+      "registrationDeadlineNote": "Pendaftaran dibuka hingga 4 September 2026",
+      "originalPrice": "Rp14.000.000",
+      "discountLabel": "Disc 64%",
+      "finalPrice": "Rp5.000.000",
+      "registerHref": "https://tally.so/r/PLACEHOLDER_DATA_ANALYTICS",
+      "consultationHref": "https://api.whatsapp.com/send/?phone=6281533330242&text=%22Halo,%20apakah%20saya%20bisa%20dapat%20info%20lebih%20lanjut%20tentang%20Dicoding%20Bootcamp?%22&type=phone_number&app_absent=0"
+    },
+    "suitableFor": {
+      "pillLabel": "Peserta",
+      "description": "Program ini dirancang bagi Anda yang ingin mengembangkan kemampuan di bidang data. Tidak perlu latar belakang IT, yang Anda butuhkan adalah komitmen dan kemauan belajar.",
+      "prerequisite": {
+        "title": "Catatan prasyarat:",
+        "body": "Siap berkomitmen 5-6 jam/hari selama program."
+      },
+      "personas": [
+        {
+          "id": "fresh-grad",
+          "iconKey": "graduation-cap",
+          "title": "Mahasiswa & Fresh Graduate",
+          "description": "Ingin memasuki industri dengan kemampuan analisis data serta portofolio yang dapat membuktikan kompetensi."
+        },
+        {
+          "id": "career-switcher",
+          "iconKey": "rocket",
+          "title": "Career Switcher",
+          "description": "Pekerja non-IT yang ingin memulai transisi karier ke bidang data melalui jalur belajar yang terstruktur."
+        },
+        {
+          "id": "self-taught",
+          "iconKey": "code",
+          "title": "Self-taught Programmer",
+          "description": "Sudah belajar sendiri tapi butuh struktur, mentor, dan proyek nyata untuk memvalidasi skill."
+        },
+        {
+          "id": "data-professional",
+          "iconKey": "briefcase",
+          "title": "Profesional yang Sering Bekerja dengan Data",
+          "description": "Sering mengolah laporan dan ingin meningkatkan kemampuan analisis agar dapat menghasilkan insight yang lebih mendalam."
+        }
+      ]
+    },
+    "outcome": {
+      "techStack": [
+        "Data Visualization",
+        "SQL",
+        "Python",
+        "Data Cleaning",
+        "Exploratory Data Analysis",
+        "Machine Learning",
+        "Dashboard",
+        "Business Insight",
+        "Data Storytelling"
+      ],
+      "outcomes": [
+        {
+          "id": "visualisasi",
+          "title": "Visualisasi Data",
+          "description": "Menyajikan data dalam bentuk grafik dan visual yang informatif agar insight lebih mudah dipahami."
+        },
+        {
+          "id": "sql",
+          "title": "Structured Query Language (SQL)",
+          "description": "Mengambil, menyaring, menggabungkan, dan menganalisis data dari database menggunakan query SQL."
+        },
+        {
+          "id": "python-data",
+          "title": "Python untuk Analisis Data",
+          "description": "Menggunakan Python untuk membersihkan, mengolah, dan mengeksplorasi data secara menyeluruh."
+        },
+        {
+          "id": "eda",
+          "title": "Exploratory Data Analysis",
+          "description": "Menemukan pola, tren, hubungan antar variabel, dan anomali yang relevan dari sebuah dataset."
+        },
+        {
+          "id": "dasar-ml",
+          "title": "Dasar Machine Learning",
+          "description": "Memahami konsep supervised dan unsupervised learning serta proses persiapan data untuk pemodelan."
+        },
+        {
+          "id": "karir-branding",
+          "title": "Kesiapan karier & personal branding",
+          "description": "Menyusun portofolio, CV, dan strategi personal branding untuk mempersiapkan karier sebagai Data Analyst."
+        }
+      ]
+    },
+    "timeline": {
+      "title": "18 Minggu Pembelajaran Intensif dari Fondasi hingga Bangun Portofolio",
+      "items": [
+        {
+          "id": "w1-3",
+          "range": "Minggu 1–3",
+          "title": "Visualisasi Data dan SQL",
+          "description": "Pelajari cara menyajikan informasi melalui visualisasi data dan memahami dasar pengelolaan database menggunakan SQL."
+        },
+        {
+          "id": "w4-7",
+          "range": "Minggu 4–7",
+          "title": "Python dan Fondasi Analisis Data",
+          "description": "Kuasai dasar pemrograman Python sebagai fondasi untuk mengolah dan menganalisis data."
+        },
+        {
+          "id": "w8-9",
+          "range": "Minggu 8–9",
+          "title": "Dasar Machine Learning",
+          "description": "Pelajari konsep dasar machine learning serta cara mempersiapkan data untuk proses pemodelan."
+        },
+        {
+          "id": "w10-12",
+          "range": "Minggu 10–12",
+          "title": "Analisis Data untuk Pemula",
+          "description": "Pelajari tahapan analisis data, mulai dari memahami pertanyaan yang ingin dijawab hingga mengeksplorasi dan menyajikan hasil analisis."
+        },
+        {
+          "id": "w13-18",
+          "range": "Minggu 13–18",
+          "title": "Capstone Project & Persiapan Karier",
+          "description": "Kerjakan proyek tim berbasis masalah nyata selama 90 jam. Didampingi advisor, dipresentasikan ke hiring partners."
+        }
+      ]
+    },
+    "curriculum": {
+      "panels": [
+        {
+          "id": "teknis",
+          "headerLabel": "Materi Teknis: Kelas Inti",
+          "groups": [
+            {
+              "id": "wajib",
+              "courseIds": [
+                177,
+                600,
+                86,
+                184,
+                906,
+                555
+              ]
+            },
+            {
+              "id": "bonus",
+              "subHeader": "Kelas Bonus (2 kelas)",
+              "courseIds": [
+                708,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "id": "non-teknis",
+          "headerLabel": "Materi Non-Teknis & Soft Skill",
+          "groups": [
+            {
+              "id": "soft",
+              "courseIds": [
+                9100,
+                9101,
+                9102,
+                9103,
+                9104
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "capstone": [
+      "abai",
+      "falt"
+    ],
+    "pricingPlans": {
+      "options": [
+        {
+          "id": "sekali",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat Rp9.000.000",
+          "finalPrice": "Rp5.000.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "3 Agustus - 4 September 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "8 September 2026 - 20 Januari 2027",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "https://tally.so/r/PLACEHOLDER_DATA_ANALYTICS"
+        },
+        {
+          "id": "cicilan",
+          "originalPrice": "Rp14.000.000",
+          "discountLabel": "Hemat Rp9.000.000",
+          "finalPrice": "Rp1.000.000",
+          "schedule": [
+            {
+              "label": "Pendaftaran",
+              "value": "3 Agustus - 4 September 2026",
+              "iconKey": "calendar"
+            },
+            {
+              "label": "Pelaksanaan",
+              "value": "8 September 2026 - 20 Januari 2027",
+              "iconKey": "clock"
+            }
+          ],
+          "registerHref": "https://tally.so/r/PLACEHOLDER_DATA_ANALYTICS"
+        }
+      ],
+      "benefits": [
+        "297 jam materi teknis",
+        "10+ sesi live expert",
+        "Mentoring 1-on-1",
+        "Capstone 90 jam",
+        "4 modul soft skill",
+        "Review kode oleh expert + AI",
+        "Sertifikat kelulusan",
+        "Akses ke hiring partners untuk memperoleh pekerjaan"
+      ]
+    },
+    "faqItems": [
+      {
+        "id": "faq-background-it",
+        "question": "Apakah saya harus punya background IT?",
+        "answer": "Tidak harus. Program ini dimulai dari dasar dan dirancang agar bisa diikuti oleh siapa saja yang melek komputer. Banyak alumni kami yang berasal dari latar belakang non-IT dan berhasil berkarier di bidang tech."
+      },
+      {
+        "id": "faq-komitmen-waktu",
+        "question": "Berapa komitmen waktu per hari?",
+        "answer": "Anda perlu menyediakan 5-6 jam per hari untuk mengikuti materi self-paced, mengerjakan tugas, dan menghadiri sesi live. Jadwal belajar fleksibel, yang penting total jam terpenuhi."
+      },
+      {
+        "id": "faq-analytics-vs-science",
+        "question": "Apa perbedaan Data Analytics dan Data Science?",
+        "answer": "Data Analytics lebih berfokus pada proses mengolah data untuk menemukan pola, menjawab pertanyaan, dan menghasilkan insight yang dapat mendukung keputusan. Data Science dapat mencakup ruang lingkup yang lebih luas, termasuk pengembangan model prediktif dan machine learning."
+      },
+      {
+        "id": "faq-penyaluran-kerja",
+        "question": "Apakah ada bantuan penyaluran kerja?",
+        "answer": "Ya. Di akhir program ada sesi Application Strategy & Networking bersama hiring partners. Profil lulusan terbaik diprioritaskan untuk screening awal oleh perusahaan partner Dicoding."
+      },
+      {
+        "id": "faq-tidak-selesai",
+        "question": "Bagaimana jika saya tidak bisa menyelesaikan program?",
+        "answer": "Tim fasilitator akan memantau progress secara berkala. Jika Anda mengalami kendala, tersedia sesi konsultasi dan banding kehadiran. Kami ingin setiap peserta berhasil, oleh karena itu, terdapat sistem monitoring mingguan."
+      }
+    ]
+  },
+  "11": {
+    "packageId": "11",
+    "hero": {
       "batchLabel": "Coming soon",
       "title": "Amankan Dunia Digital: Bootcamp Cyber Security",
       "description": "Pelajari cara melindungi sistem dari ancaman siber, mulai dari identifikasi kerentanan hingga strategi pertahanan (defense) dan penyerangan (offense) etis. Siapkan dirimu menjadi spesialis keamanan siber yang andal.",
