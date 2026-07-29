@@ -1291,8 +1291,7 @@
         "Exploratory Data Analysis",
         "Machine Learning",
         "Dashboard",
-        "Business Insight",
-        "Data Storytelling"
+        "Business Insight"
       ],
       "outcomes": [
         {
@@ -1322,7 +1321,7 @@
         },
         {
           "id": "karir-branding",
-          "title": "Kesiapan karier & personal branding",
+          "title": "Kesiapan Karier & Personal Branding",
           "description": "Menyusun portofolio, CV, dan strategi personal branding untuk mempersiapkan karier sebagai Data Analyst."
         }
       ]
@@ -1462,34 +1461,7 @@
         "Sertifikat kelulusan",
         "Akses ke hiring partners untuk memperoleh pekerjaan"
       ]
-    },
-    "faqItems": [
-      {
-        "id": "faq-background-it",
-        "question": "Apakah saya harus punya background IT?",
-        "answer": "Tidak harus. Program ini dimulai dari dasar dan dirancang agar bisa diikuti oleh siapa saja yang melek komputer. Banyak alumni kami yang berasal dari latar belakang non-IT dan berhasil berkarier di bidang tech."
-      },
-      {
-        "id": "faq-komitmen-waktu",
-        "question": "Berapa komitmen waktu per hari?",
-        "answer": "Anda perlu menyediakan 5-6 jam per hari untuk mengikuti materi self-paced, mengerjakan tugas, dan menghadiri sesi live. Jadwal belajar fleksibel, yang penting total jam terpenuhi."
-      },
-      {
-        "id": "faq-analytics-vs-science",
-        "question": "Apa perbedaan Data Analytics dan Data Science?",
-        "answer": "Data Analytics lebih berfokus pada proses mengolah data untuk menemukan pola, menjawab pertanyaan, dan menghasilkan insight yang dapat mendukung keputusan. Data Science dapat mencakup ruang lingkup yang lebih luas, termasuk pengembangan model prediktif dan machine learning."
-      },
-      {
-        "id": "faq-penyaluran-kerja",
-        "question": "Apakah ada bantuan penyaluran kerja?",
-        "answer": "Ya. Di akhir program ada sesi Application Strategy & Networking bersama hiring partners. Profil lulusan terbaik diprioritaskan untuk screening awal oleh perusahaan partner Dicoding."
-      },
-      {
-        "id": "faq-tidak-selesai",
-        "question": "Bagaimana jika saya tidak bisa menyelesaikan program?",
-        "answer": "Tim fasilitator akan memantau progress secara berkala. Jika Anda mengalami kendala, tersedia sesi konsultasi dan banding kehadiran. Kami ingin setiap peserta berhasil, oleh karena itu, terdapat sistem monitoring mingguan."
-      }
-    ]
+    }
   },
   "11": {
     "packageId": "11",
