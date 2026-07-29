@@ -1245,7 +1245,7 @@
       "originalPrice": "Rp14.000.000",
       "discountLabel": "Disc 64%",
       "finalPrice": "Rp5.000.000",
-      "registerHref": "https://tally.so/r/PLACEHOLDER_DATA_ANALYTICS",
+      "registerHref": "https://forms.dicoding.com/r/OD074p",
       "consultationHref": "https://api.whatsapp.com/send/?phone=6281533330242&text=%22Halo,%20apakah%20saya%20bisa%20dapat%20info%20lebih%20lanjut%20tentang%20Dicoding%20Bootcamp?%22&type=phone_number&app_absent=0"
     },
     "suitableFor": {
@@ -1430,7 +1430,7 @@
               "iconKey": "clock"
             }
           ],
-          "registerHref": "https://tally.so/r/PLACEHOLDER_DATA_ANALYTICS"
+          "registerHref": "https://forms.dicoding.com/r/OD074p"
         },
         {
           "id": "cicilan",
@@ -1449,7 +1449,7 @@
               "iconKey": "clock"
             }
           ],
-          "registerHref": "https://tally.so/r/PLACEHOLDER_DATA_ANALYTICS"
+          "registerHref": "https://forms.dicoding.com/r/OD074p"
         }
       ],
       "benefits": [
