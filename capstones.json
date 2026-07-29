@@ -52,5 +52,14 @@
     "batchPill": "Batch 10 • Artificial Intelligent",
     "title": "Food AI-based Tracker",
     "description": "Aplikasi cerdas yang memanfaatkan AI untuk menganalisis dan melacak asupan nutrisi harian berdasarkan foto makanan."
+  },
+  "deprisk": {
+    "id": "deprisk",
+    "thumbnailSrc": "/images/paket-pelatihan/capstone/deprisk.png",
+    "thumbnailWidth": 600,
+    "thumbnailHeight": 400,
+    "batchPill": "Batch 4 • Data Science",
+    "title": "Depression Risk Assessment With Machine Learning",
+    "description": "Model klasifikasi untuk memprediksi risiko depresi berdasarkan faktor tertentu."
   }
 }
