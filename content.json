@@ -1330,28 +1330,28 @@
       "title": "18 Minggu Pembelajaran Intensif dari Fondasi hingga Bangun Portofolio",
       "items": [
         {
-          "id": "w1-3",
-          "range": "Minggu 1–3",
+          "id": "w1",
+          "range": "Minggu 1",
           "title": "Visualisasi Data dan SQL",
           "description": "Pelajari cara menyajikan informasi melalui visualisasi data dan memahami dasar pengelolaan database menggunakan SQL."
         },
         {
-          "id": "w4-7",
-          "range": "Minggu 4–7",
+          "id": "w2-6",
+          "range": "Minggu 2–6",
           "title": "Python dan Fondasi Analisis Data",
           "description": "Kuasai dasar pemrograman Python sebagai fondasi untuk mengolah dan menganalisis data."
         },
         {
-          "id": "w8-9",
-          "range": "Minggu 8–9",
+          "id": "w7-9",
+          "range": "Minggu 7–9",
           "title": "Dasar Machine Learning",
           "description": "Pelajari konsep dasar machine learning serta cara mempersiapkan data untuk proses pemodelan."
         },
         {
           "id": "w10-12",
           "range": "Minggu 10–12",
-          "title": "Analisis Data untuk Pemula",
-          "description": "Pelajari tahapan analisis data, mulai dari memahami pertanyaan yang ingin dijawab hingga mengeksplorasi dan menyajikan hasil analisis."
+          "title": "Fundamental Analisis Data",
+          "description": "Perdalam kemampuan analisis data untuk menghadapi permasalahan yang lebih kompleks dan menghasilkan insight yang bernilai."
         },
         {
           "id": "w13-18",
@@ -1373,8 +1373,8 @@
                 177,
                 600,
                 86,
-                184,
                 906,
+                184,
                 555
               ]
             },
