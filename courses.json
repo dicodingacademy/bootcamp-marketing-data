@@ -580,5 +580,17 @@
     "title": "Materi Teknis (Coming Soon)",
     "hours": "TBD",
     "summary": "Detail materi teknis untuk Cyber Security sedang dalam tahap penyusunan dan akan segera diumumkan."
+  },
+  "9901": {
+    "id": 9901,
+    "title": "Belajar Fundamental Network Security",
+    "hours": "65 jam",
+    "summary": "Pelajari cara mengidentifikasi kerentanan jaringan, merancang pertahanan berlapis, lalu mengujinya untuk membuktikan sistem sudah aman."
+  },
+  "9902": {
+    "id": 9902,
+    "title": "Menjadi Cyber Security Analyst",
+    "hours": "70 jam",
+    "summary": "Pelajari peran Cyber Security Analyst, mulai dari manajemen risiko, arsitektur keamanan, forensik digital, hingga operasi keamanan."
   }
 }
