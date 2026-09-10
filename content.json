@@ -1873,6 +1873,14 @@
                 261,
                 271
               ]
+            },
+            {
+              "id": "bonus",
+              "subHeader": "Kelas Bonus",
+              "courseIds": [
+                418,
+                276
+              ]
             }
           ]
         },
