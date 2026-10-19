@@ -205,9 +205,9 @@
   },
   "promotionalPopup": {
     "enabled": true,
-    "title": "Buka Diskon Spesial 57%",
+    "title": "Buka Diskon Spesial 60%",
     "badgeLabel": "Penawaran khusus",
-    "discountValue": "57%",
+    "discountValue": "60%",
     "bonusLabel": "Diskon spesial!",
     "description": "Isi email atau nomor WhatsApp untuk mendapatkan penawaran terbaik dari Dicoding Bootcamp.",
     "submitLabel": "Dapatkan penawaran",
