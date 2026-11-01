@@ -1,11 +1,11 @@
 {
   "announcementBar": {
-    "endsAt": "2026-10-31T23:59:59+07:00",
-    "prefix": "Pay Day Sale ",
+    "endsAt": "2026-11-10T23:59:59+07:00",
+    "prefix": "November Saatnya Boost Skill dengan ",
     "highlights": [
-      "Diskon 60%"
+      "Diskon 55%"
     ],
-    "suffix": " berlaku hingga 31 Oktober 2026 pukul 23.59 WIB."
+    "suffix": " berlaku hingga 10 November 2026 pukul 23.59 WIB."
   },
   "stats": [
     {
@@ -205,9 +205,9 @@
   },
   "promotionalPopup": {
     "enabled": true,
-    "title": "Buka Diskon Spesial 60%",
+    "title": "Buka Diskon Spesial 55%",
     "badgeLabel": "Penawaran khusus",
-    "discountValue": "60%",
+    "discountValue": "55%",
     "bonusLabel": "Diskon spesial!",
     "description": "Isi email atau nomor WhatsApp untuk mendapatkan penawaran terbaik dari Dicoding Bootcamp.",
     "submitLabel": "Dapatkan penawaran",
